@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andy's Website"
 title_separator          : "-"
 name                     : &name "Andy Atallah"
-description              : &description "Personal website created for "
+description              : &description "Personal website created for BIOL 1007"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -188,17 +188,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: false
-      related: true
   # _pages
   - scope:
       path: ""
