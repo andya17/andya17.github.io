@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Intro to CalendR"
+permalink: /intro/
 author_profile: true
 ---
 
