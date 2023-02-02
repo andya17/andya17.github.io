@@ -4,8 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Calendar One"
-     url: /docs/_pages/calendr.html
+  # - title: "Calendar One"
+     url: /calendar1/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
