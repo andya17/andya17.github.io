@@ -1,6 +1,7 @@
 ---
 title:  "Tree Photos"
 permalink: /treephotos/
+classes: wide
 excerpt: "This page displays various pictures I took last year."
 header:
  overlay-color: "#228b22"

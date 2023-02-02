@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Andy Atallah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is a website created for BIOL 1007!"
+  bio              : "This is a website created for BIOL 1007."
   location         : "Middlebury, VT"
   email            : 
   links:
