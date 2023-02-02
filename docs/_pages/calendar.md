@@ -1,6 +1,6 @@
 ---
 title: “calendR Part 1”
-permalink: /calendar1/
+permalink: /calendar/
 layout: pages
 author_profile: true
 ---
