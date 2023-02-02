@@ -4,7 +4,7 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Calendar One"
+   - title: "February Calendar"
      url: /calendar1/
   # - title: "Sample Collections"
   #   url: /collection-archive/
