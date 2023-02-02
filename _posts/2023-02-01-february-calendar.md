@@ -1,7 +1,8 @@
 ---
 layout: posts
-title:  "February 2023 calendar"
+title:  "Calendar: February 2023"
 date:   2023-02-01
 ---
 
-{% include figure image_path="/assets/feb23calendar.png" alt="This is a February 2023 calendar." caption="This is a calendar created using the package calendR." %}
+{% include figure image_path="/assets/feb23calendar.png" alt="This is a February 2023 calendar." caption="This is a calendar created using the package calendR. The package offers the ability to create monthly and yearly calendars." %}
+
