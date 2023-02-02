@@ -15,8 +15,8 @@ Location: Needham, MA.
 Date: August 2022" %}
 
 
-{% include figure image_path="/assets/treephoto2.png" alt="These are some dead standing trees." caption="Description: Dead standing trees in a forest.
-Location: Needham, MA.   
+{% include figure image_path="/assets/treephoto2.png" alt="These are some dead standing trees." caption="Description: Dead standing trees in a forest.     
+Location: Needham, MA.     
 Date: July 2022" %}
 
 
