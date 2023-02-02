@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Andy Atallah"
 description              : "A website for the BIOL1007 final project."
 url                      : "https://andya17.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/andya17.github.io"
 repository               : "andya17/andya17.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
