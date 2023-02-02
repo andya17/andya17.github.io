@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:  "Calendar: Full Year 2023"
 date:   2023-02-01
 ---
