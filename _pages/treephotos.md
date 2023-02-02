@@ -8,10 +8,10 @@ comments: true
 ---
 
 
-{% include figure image_path="/assets/tree1.png" alt="This is a red spruce." caption="Red spruce, TAM, February 2022" %}
+{% include figure image_path="/assets/treephoto1.png" alt="These are trees on a pond near where I live." caption="Trees around a resevoir, Needham, MA, August 2022" %}
 
 
-{% include figure image_path="/assets/tree2.png" alt="This is a white pine." caption="White pine, TAM, February 2022" %}
+{% include figure image_path="/assets/treephoto2.png" alt="These are some dead standing trees." caption="Dead standing trees, Needham, MA, July 2022" %}
 
 
-{% include figure image_path="/assets/tree3.png" alt="This is a paper birch." caption="Paper birch, TAM, February 2022" %}
+{% include figure image_path="/assets/treephoto3.png" alt="This is a boardwalk with trees on either side." caption="Winter trees, Needham, MA, November 2022" %}
