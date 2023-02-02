@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Calendar: February 2023 Academics"
 date:   2023-02-01
 ---
