@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andy's Personal Site"
+title                    : "GIS Portfolio of Andy Atallah"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andy Atallah"
-description              : "A personal website for the BIOL1007 final project."
+description              : "GIS projects from the Geography Department at Middlebury College"
 url                      : "https://andya17.github.io/"
 baseurl                  : # ""
 repository               : "andya17/andya17.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Andy Atallah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is a website created for BIOL 1007."
+  bio              : "I am a Conservation Biology major at Middlebury College graduating in May 2024. This site lists some of my experience with GIS technology."
   location         : "Middlebury, VT"
   email            : 
   links:
