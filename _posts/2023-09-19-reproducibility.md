@@ -19,10 +19,10 @@ Open Source GIS can help somewhat with the crisis by allowing researchers who wi
 
 A problem with the reproducibility crisis which may not be solved by open source GIS is the "publish or perish" culture to which Dr. Ainsworth refers in the TED Talk. Journals still may control the income and status of researchers even with improvements in data transparency. Creating communities based around improving open source software is beneficial for researchers, but there is still an issue if journals cause those researchers to be constantly pressured to submit publications and pay fees for open access.
 
-NASEM (ational Academies of Sciences, Engineering, and Medicine). 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: 10.17226/25303
+NASEM (ational Academies of Sciences, Engineering, and Medicine). 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press <https://doi.org/10.17226/25303>.
 
 
-Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. DOI: 10.1007/s10109-009-0086-8
+Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207 <https://doi.org/10.1007/s10109-009-0086-8>.
 
 
 Dr. Rachel Ainsworth discusses open science culture: <https://youtu.be/c-bemNZ-IqA>
