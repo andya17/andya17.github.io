@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Open GIScience
+title: GIS Portfolio — Andy Atallah
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website that I am using as a portfolio for Open GIScience and Conservation Planning at Middlebury.
+  This is a portfolio which shows and explains my GIS work at UMass Amherst and Middlebury College.
 github_username: andya17
 minimal_mistakes_skin: sunrise
 search: true
