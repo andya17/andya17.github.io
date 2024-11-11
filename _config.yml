@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "Andy Atallah"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a Conservation Biology major at Middlebury College graduating in May 2024."
+  avatar : "/assets/bio-2024.png"
+  bio    : "Graduate Student in Geographic Information Science and Technology"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
