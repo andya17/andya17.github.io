@@ -2,5 +2,4 @@
 permalink: /resume/
 title: "Current Resume"
 ---
-<embed src="assets/resume_november24.pdf" width="500" height="375" 
- type="application/pdf">
+<a href="assets/resume_november24.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
