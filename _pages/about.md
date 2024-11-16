@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About"
 ---
 
 I am a student in the Geographic Information Science and Technology (GIST) program at the University of Massachusetts Amherst. This is a one-year M.S. program from which I expect to graduate after a capstone internship in Summer 2025. I am studying topics including web- and desktop-based GIS software, spatial analysis with vector and raster data, cartography principles, remote sensing, image correction and interpretation, spatial databases and queries, and extract-transform-load workflows. I am interested in using the knowledge I gain in these topics to address questions in environmental studies and plant and wildlife ecology.
