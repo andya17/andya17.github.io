@@ -57,17 +57,23 @@ plugins:
 author:
   name   : "Andy Atallah"
   avatar : "/assets/bio-2024.png"
-  bio    : "Graduate Student in Geographic Information Science and Technology \n M.S. — UMass \n B.A. — Middlebury"
+  bio    : "Graduate Student in Geographic Information Science and Technology"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andya17/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/andy-atallah"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andya17"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/andy-atallah"
 
 defaults:
   # _posts
