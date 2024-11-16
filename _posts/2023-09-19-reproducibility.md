@@ -1,5 +1,6 @@
 ---
 title: "Reproducible and Open GIScience"
+published: false
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
