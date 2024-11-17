@@ -31,7 +31,7 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEO
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_3.pdf" type="application/pdf" width="100%" height="100%"></object>  
 
 ## Flood Hazard Area Natural Habitat Report  
-In the following report for the Middlebury College course Conservation Planning, I write about a Google Earth Engine model which calculates the amount of natural habitat in the FEMA Special Flood Hazard Area in Middlebury, Vermont. The report concerns how small variations in model parameters, such as scale or filter kernel size, can have impacts on the outputs.  
+In the following report for the Middlebury College course Conservation Planning, I write about a Google Earth Engine model which calculates the amount of natural habitat in the FEMA Special Flood Hazard Area in Middlebury, Vermont. The report concerns how small variations in model parameters, such as scale, can have impacts on the outputs.  
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310_Report_2.pdf).    
 
