@@ -4,8 +4,8 @@ title: "GIS Projects"
 toc: true
 ---
 
-## Least Cost Surface Reproduction Study  
-I completed the following project with a classmate in the Middlebury College course Open GIScience in Fall 2023. We attempted to reproduce a least cost raster output from QGIS in R through the use of spatial analysis packages such as `raster`, `stars`, and `tmap`. I provided CRediT roles to reflect the balance of work between the contributors at the conclusion of the report linked below.
+## Wildlife Corridor Cost Surface Reproduction Study  
+I completed the following project with a classmate in the Middlebury College course Open GIScience in Fall 2023. We attempted to reproduce a least cost raster output from QGIS in R through the use of packages such as `raster`, `stars`, and `tmap`. I provided CRediT roles to reflect the balance of work between the contributors at the conclusion of the report linked below.
 
 Access the published OSF page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/).  
 
@@ -31,7 +31,7 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEO
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_3.pdf" type="application/pdf" width="100%" height="100%"></object>  
 
 ## Flood Hazard Area Natural Habitat Report  
-In the following report for the Middlebury College course Conservation Planning, I write about a Google Earth Engine model which calculates the amount of natural habitat in the Special Flood Hazard Area in Middlebury, Vermont. Much of the report concerns my evaluations of whether small changes in model parameters altered the workflow.
+In the following report for the Middlebury College course Conservation Planning, I write about a Google Earth Engine model which calculates the amount of natural habitat in the Special Flood Hazard Area in Middlebury, Vermont. Much of the report concerns my evaluations of how small changes in model parameters could alter the results of the workflow.
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310_Report_2.pdf).    
 
