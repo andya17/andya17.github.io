@@ -12,7 +12,7 @@ Access the published Open Science Framework page, created by instructor Dr. Jose
 Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/).  
 
 ## Green Needham "Tap Map"  
-In Summer 2024, created a web map showing the locations of water fountains and water bottle filling stations in Needham, Massachusetts for the community environmental organization Green Needham. This work involved taking coordinates in the field and inside public buildings and using the WordPress plugin WP Go Maps to construct the map.  
+In Summer 2024, I created a web map showing the locations of water fountains and water bottle filling stations in Needham, Massachusetts for the community environmental organization Green Needham. This work involved taking coordinates in the field and inside public buildings and using the WordPress plugin WP Go Maps to construct the map.  
 
 Access the map at [this link](https://www.greenneedham.org/blog/tap-map/).  
 
