@@ -5,7 +5,7 @@ toc: true
 ---
 
 ## Massachusetts Climate Action Plans Report   
-This paper is the product of an elective senior independent study I completed at Middlebury College in Fall 2023. I was advised by Professor Christopher M. Klyza of the Environmental Studies and Political Science departments. In the report, I consider how various Massachusetts communities have included environmental justice principles in their Climate Action Plan documents, which serve to detail municipal goals.
+This paper is the product of an elective senior independent study I completed at Middlebury College in Fall 2023. I was advised by Professor Christopher M. Klyza of the Environmental Studies and Political Science departments. In the report, I consider how various Massachusetts communities have included environmental justice principles in their Climate Action Plan documents, which serve to detail municipal climate goals.  
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/ENVS700_Final_Report.pdf).    
 

@@ -7,7 +7,7 @@ toc: true
 ## Wildlife Corridor Reproduction Study  
 I completed the following project with a classmate in the Middlebury College course Open GIScience in Fall 2023. We attempted to reproduce a least cost surface from a QGIS model by instead using R. We used packages such as `raster`, `stars`, and `tmap` to create an analogous workflow to the QGIS model. I provided CRediT roles to reflect the balance of work between the contributors at the conclusion of the report linked below.  
 
-Access the published OSF page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/).  
+Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/).  
 
 Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/).  
 
