@@ -8,9 +8,7 @@ toc: true
 
 For the University of Massachusetts Amherst course Introduction to GIS, I worked with point data for the plant English Ivy, invasive in some U.S. states, to predict the future distribution of the species in the United States and Canada with forecasted shifts in climatic variables.
 
-View below or [in a separate tab](https://andya17.github.io/_pages/pdfs/IntroGIS_Final).    
-
-<object data="https://andya17.github.io/_pages/pdfs/IntroGIS_Final.pdf" type="application/pdf" width="100%" height="100%"></object>  
+View [in a separate tab](https://drive.google.com/file/d/1Lri3uqu52yh7oQzEAYZCyndX-f7S0dtb/view?usp=sharing).    
 
 ## Wildlife Corridor Reproduction Study  
 I completed the following project with a classmate in the Middlebury College course Open GIScience in Fall 2023. We attempted to reproduce the steps of a QGIS model which produced a least cost surface by instead using the software R. We used packages such as `raster`, `stars`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the contributors at the conclusion of the report linked below.  
