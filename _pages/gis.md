@@ -4,8 +4,16 @@ title: "GIS Projects"
 toc: true
 ---
 
+## Species Distribution Model Project
+
+For the University of Massachusetts Amherst course Introduction to GIS, I worked with point data for the plant English Ivy, invasive in some U.S. states, to predict the future distribution of the species in the United States and Canada with forecasted shifts in climatic variables.
+
+View below or [in a separate tab](https://andya17.github.io/_pages/pdfs/IntroGIS_Final).    
+
+<object data="https://andya17.github.io/_pages/pdfs/IntroGIS_Final.pdf" type="application/pdf" width="100%" height="100%"></object>  
+
 ## Wildlife Corridor Reproduction Study  
-I completed the following project with a classmate in the Middlebury College course Open GIScience in Fall 2023. We attempted to reproduce a least cost surface from a QGIS model by instead using R. We used packages such as `raster`, `stars`, and `tmap` to create an analogous workflow to the QGIS model. I provided CRediT roles to reflect the balance of work between the contributors at the conclusion of the report linked below.  
+I completed the following project with a classmate in the Middlebury College course Open GIScience in Fall 2023. We attempted to reproduce the steps of a QGIS model which produced a least cost surface by instead using the software R. We used packages such as `raster`, `stars`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the contributors at the conclusion of the report linked below.  
 
 Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/).  
 
