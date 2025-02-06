@@ -2,6 +2,7 @@
 permalink: /writing/
 title: "Writing Samples"
 toc: true
+toc_sticky: false
 ---
 
 ## Massachusetts Climate Action Plans Report   
