@@ -2,7 +2,7 @@
 permalink: /gis/
 title: "GIS Projects"
 toc: true
-toc_sticky: false
+toc_sticky: true
 ---
 
 ## Species Distribution Model Project
