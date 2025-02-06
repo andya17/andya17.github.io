@@ -4,9 +4,10 @@ permalink: /
 
 I am a student in the Geographic Information Science and Technology (GIST) program at the University of Massachusetts Amherst. This is a one-year M.S. program from which I expect to graduate after a capstone internship in Summer 2025. I am studying topics such as:
 * desktop- and web-based GIS
-* remote sensing and image correction/interpretation
+* GIS programming
 * spatial analysis with vector and raster data
 * cartography and data presentation
+* remote sensing and image correction/interpretation
 * spatial databases and queries 
 * extract-transform-load workflows
 

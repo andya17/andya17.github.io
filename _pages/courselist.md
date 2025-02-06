@@ -5,20 +5,20 @@ title: "Selected Course List"
 
 Below is a list of selected courses in which I have enrolled at UMass Amherst and Middlebury College.
 
-**UMass Amherst (M.S., 2024-2025)**  
-* Geography 626: Remote Sensing and Image Interpretation 
-* Environmental Conservation 638: Spatial Databases and Data Interoperability  
-* Geography 668: GIS and Spatial Analysis (Spring 2025)  
-* Environmental Conservation 640: Python for ArcGIS (Spring 2025)   
-* Environmental Conservation 637: Spatial Data Analysis in R (Spring 2025)     
-* Geography 693: WebGIS (Spring 2025)  
-* Geography 585: Introduction to GIS  
+**UMass Amherst (M.S. in Geographic Information Science and Technology, 2024-2025)**  
+* Spatial Databases and Data Interoperability (Environmental Conservation 638)
+* Remote Sensing and Image Interpretation (Geography 626) 
+* GIS and Spatial Analysis (Geography 668) [In progress]
+* Python for ArcGIS (Environmental Conservation 640) [In progress]   
+* Spatial Data Analysis in R (Environmental Conservation 637) [In progress]    
+* WebGIS (Geography 693) [In progress]
+* Introduction to GIS (Geography 585)
 
-**Middlebury College (B.A., 2020-2024)** 
-* Geography 361: Open GIScience  
-* Geography 310: Conservation Planning   
-* Geography 271: Cartography  
-* Geography 261: Human Geography with GIS  
-* Geography 150: Mapping Global Environmental Change  
-* Statistics 218: Statistical Learning  
-* Biology 211: Biostatistics  
+**Middlebury College (B.A. in Conservation Biology, 2020-2024)** 
+* Open GIScience (Geography 361)
+* Conservation Planning (Geography 310)
+* Cartography (Geography 271)
+* Human Geography with GIS (Geography 261) 
+* Mapping Global Environmental Change (Geography 150)
+* Statistical Learning (Statistics 218)
+* Biostatistics (Biology 211)
