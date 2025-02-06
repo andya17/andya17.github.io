@@ -18,7 +18,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is a portfolio which holds my GIS work and other academic writing projects.
 github_username: andya17
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
