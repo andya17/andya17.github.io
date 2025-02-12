@@ -6,11 +6,22 @@ toc_icon: "file"
 toc_sticky: true
 ---
 
+<style>
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+p + ul {
+  margin-top: 0;
+}
+</style>
+
+
 This page lists select software with which I have become familiar and the courses and/or positions in which I have used said software. "UMass" refers to the University of Massachusetts Amherst, and "Middlebury" refers to Middlebury College.
 
 ### Adobe Illustrator
 Courses:
 * Cartography (Middlebury, Spring 2024)
+
 
 ### ArcGIS Online
 Courses:

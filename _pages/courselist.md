@@ -3,6 +3,16 @@ permalink: /course-list/
 title: "Selected Course List"
 ---
 
+<style>
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+p + ul {
+  margin-top: 0;
+}
+</style>
+
+
 Below is a list of selected courses in which I have enrolled at UMass Amherst and Middlebury College.
 
 **UMass Amherst (M.S. in Geographic Information Science and Technology, 2024-2025)**  
