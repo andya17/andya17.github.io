@@ -13,12 +13,16 @@ p:has(+ ul) {
 p + ul {
   margin-top: 0;
 }
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
 </style>
+
 
 
 This page lists select software with which I have become familiar and the courses and/or positions in which I have used said software. "UMass" refers to the University of Massachusetts Amherst, and "Middlebury" refers to Middlebury College.
 
-### Adobe Illustrator
+### Adobe Illustrator   
 Courses:
 * Cartography (Middlebury, Spring 2024)
 
