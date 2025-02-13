@@ -4,11 +4,11 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Resume"
      url: /resume/
-   - title: "Course List"
-     url: /course-list/
-   - title: "Software"
-     url: /software/
    - title: "GIS Projects"
      url: /gis/
    - title: "Writing Samples"
      url: /writing/
+   - title: "Course List"
+     url: /course-list/
+   - title: "Software"
+     url: /software/
