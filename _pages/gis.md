@@ -11,9 +11,6 @@ For the University of Massachusetts Amherst course Spatial Databases and Data In
 
 Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing).
 
-<iframe frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"
-src="https://umass-amherst.maps.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a"></iframe>
-
 Access the ArcGIS Dashboard at [this link](https://umass-amherst.maps.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a).
 
 ## Wildlife Corridor Reproduction Study  
