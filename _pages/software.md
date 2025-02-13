@@ -11,7 +11,7 @@ p:has(+ ul) {
   margin-bottom: 0;
 }
 p + ul {
-  margin-top: 0;
+  margin-top: -XX;
 }
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
