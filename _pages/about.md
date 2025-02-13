@@ -6,7 +6,7 @@ I am a student in the Geographic Information Science and Technology (GIST) progr
 * desktop- and web-based GIS
 * GIS programming
 * spatial analysis with vector and raster data
-* cartography and data presentation
+* cartographic principles
 * remote sensing and image correction/interpretation
 * spatial databases and queries 
 * extract-transform-load workflows

@@ -24,8 +24,8 @@ h3 {
 This page lists select software and programming languages with which I have become familiar and the courses and/or positions in which I have used them. "UMass" refers to the University of Massachusetts Amherst, and "Middlebury" refers to Middlebury College.
 
 ### Adobe Illustrator   
-Courses:
-  * Cartography (Middlebury, Spring 2024)
+Courses:  
+-Cartography (Middlebury, Spring 2024)
 
 
 ### ArcGIS Online

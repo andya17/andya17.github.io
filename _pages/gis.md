@@ -7,11 +7,14 @@ toc_sticky: true
 ---
 
 ## API-Driven Species Mapping Dashboard
-For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used FME to query the API of the Global Biodiversity Information Facility and create an ArcGIS Online Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course.
+For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used FME to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course.
 
 Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing).
 
-Access the ArcGIS Online Dashboard at [this link](https://umass-amherst.maps.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a).
+<iframe frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"
+src="https://umass-amherst.maps.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a"></iframe>
+
+Access the ArcGIS Dashboard at [this link](https://umass-amherst.maps.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a).
 
 ## Wildlife Corridor Reproduction Study  
 I completed the following project with a classmate in the Middlebury College course Open GIScience in Fall 2023. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `raster`, `stars`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
