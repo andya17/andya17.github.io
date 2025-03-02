@@ -20,8 +20,17 @@ Access the published Open Science Framework page, created by instructor Dr. Jose
 
 Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/).  
 
+## Topographic Map Update
+
+In February 2025, I took on a project to update a topographic map of the UMass Amherst campus which a professor used for class materials but now considered out-of-date. Using the reference map, printed on physical media, I sought out digital data sources from the state government and UMass which allowed me to preserve extent and style while reflecting new LiDAR data. 
+
+View the reference map (left) and the updated map (right) below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/Topo-Map-Comparison.pdf).
+
+<object data="https://andya17.github.io/_pages/pdfs/Topo-Map-Comparison.pdf" type="application/pdf" width="100%" height="100%"></object> 
+
+
 ## Climate-based Invasive Species Distribution Model
-For the University of Massachusetts Amherst course Introduction to GIS (Fall 2024), I worked with point data for the plant English Ivy, invasive in some U.S. states, to predict the future distribution of the species in the United States and Canada with forecasted shifts in climatic variables.
+For the UMass Amherst course Introduction to GIS (Fall 2024), I worked with point data for the plant English Ivy, invasive in some U.S. states, to predict the future distribution of the species in the United States and Canada with forecasted shifts in climatic variables.
 
 View the final product [in a separate tab](https://drive.google.com/file/d/1Lri3uqu52yh7oQzEAYZCyndX-f7S0dtb/view?usp=sharing).    
 
