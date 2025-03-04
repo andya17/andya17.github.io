@@ -28,12 +28,10 @@ View the reference map (first page) and the updated map (second page) below or [
 
 <object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=60&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
 
-
 ## Climate-based Invasive Species Distribution Model
 For the UMass Amherst course Introduction to GIS (Fall 2024), I worked with point data for the plant English Ivy, invasive in some U.S. states, to predict the future distribution of the species in the United States and Canada with forecasted shifts in climatic variables.
 
 View the final product [in a separate tab](https://drive.google.com/file/d/1Lri3uqu52yh7oQzEAYZCyndX-f7S0dtb/view?usp=sharing){:target="_blank" rel="noopener"}.    
-
 
 ## Green Needham "Tap Map"  
 In August and September of 2024, I created a web map showing the locations of water fountains and water bottle filling stations in Needham, Massachusetts for the community environmental organization Green Needham. To construct the map, I collected coordinates of water fountains both outdoors and inside public buildings. I then used the WordPress plugin WP Go Maps to create point data.
