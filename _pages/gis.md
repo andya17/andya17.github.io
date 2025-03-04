@@ -26,7 +26,7 @@ In February 2025, I took on a project to update a topographic map of the UMass A
 
 View the reference map (first page) and the updated map (second page) below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf).
 
-<object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=50" type="application/pdf" width="100%" height="100%" zoom="50%"></object> 
+<object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=50&navpanes=0" type="application/pdf" width="100%" height="100%" zoom="60%"></object> 
 
 
 ## Climate-based Invasive Species Distribution Model
@@ -45,7 +45,7 @@ This is a report I composed for the Middlebury College course Conservation Plann
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310_Report_3.pdf).    
 
-<object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_3.pdf#zoom=50" type="application/pdf" width="100%" height="100%"></object>  
+<object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_3.pdf#zoom=60&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
 ## Ecological Restoration Case Studies StoryMap  
 I created an ArcGIS StoryMap in 2023 as part of an internship with environmental consultant Betsy Taylor, formerly of Breakthrough Strategies and Solutions. An embedded map shows the locations of 19 successful case studies of ecological restoration. I identified and summarized the selected case studies with the advisory of Ms. Taylor, who herself wrote the introduction to the StoryMap. This document is named on Ms. Taylor's website as representing her "Ecological Restoration Initiative".  
