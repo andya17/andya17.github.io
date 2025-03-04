@@ -14,7 +14,7 @@ Access the slide deck for my project presentation, which provides context for th
 Access the ArcGIS Dashboard at [this link](https://umass-amherst.maps.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a).
 
 ## Wildlife Corridor Reproduction Study  
-I completed the following project with a classmate in the Middlebury College course Open GIScience in Fall 2023. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `raster`, `stars`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
+I completed the following project with a classmate in the Middlebury College course Open GIScience during the Fall 2023 semester. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `stars`, `raster`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
 
 Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/).  
 
@@ -36,8 +36,7 @@ View the final product [in a separate tab](https://drive.google.com/file/d/1Lri3
 
 
 ## Green Needham "Tap Map"  
-In Summer 2024, I created a web map showing the locations of water fountains and water bottle filling stations in Needham, Massachusetts for the community environmental organization Green Needham. To construct the map, I collected coordinates of water fountains both outdoors and inside public buildings. I then used the 
-WordPress plugin WP Go Maps to create point data.
+In August and September of 2024, I created a web map showing the locations of water fountains and water bottle filling stations in Needham, Massachusetts for the community environmental organization Green Needham. To construct the map, I collected coordinates of water fountains both outdoors and inside public buildings. I then used the WordPress plugin WP Go Maps to create point data.
 
 Access the map at [this link](https://www.greenneedham.org/blog/tap-map/).  
 
@@ -46,7 +45,7 @@ This is a report I composed for the Middlebury College course Conservation Plann
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310_Report_3.pdf).    
 
-<object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_3.pdf" type="application/pdf" width="100%" height="100%"></object>  
+<object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_3.pdf#zoom=50" type="application/pdf" width="100%" height="100%"></object>  
 
 ## Ecological Restoration Case Studies StoryMap  
 I created an ArcGIS StoryMap in 2023 as part of an internship with environmental consultant Betsy Taylor, formerly of Breakthrough Strategies and Solutions. An embedded map shows the locations of 19 successful case studies of ecological restoration. I identified and summarized the selected case studies with the advisory of Ms. Taylor, who herself wrote the introduction to the StoryMap. This document is named on Ms. Taylor's website as representing her "Ecological Restoration Initiative".  
