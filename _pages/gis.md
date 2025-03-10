@@ -37,6 +37,13 @@ In August and September of 2024, I created a web map showing the locations of wa
 
 Access the map at [this link](https://www.greenneedham.org/blog/tap-map/){:target="_blank" rel="noopener"}.  
 
+## FEMA Special Flood Hazard Area Natural Habitat Report  
+In the following report for the Middlebury College course Conservation Planning, I write about a Google Earth Engine model which calculates the amount of natural habitat in the FEMA Special Flood Hazard Area in Middlebury, Vermont. The report concerns how small variations in model parameters, such as scale, can have impacts on the outputs.  
+
+Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310_Report_2.pdf){:target="_blank" rel="noopener"}.    
+
+<object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_2.pdf" type="application/pdf" width="100%" height="100%"></object> 
+
 ## Vermont Forested Habitat Block Report   
 This is a report I composed for the Middlebury College course Conservation Planning in Spring 2023. It involves adding to a forested habitat block model created by instructor Dr. Jeff Howarth to allow for natural communities, a classification system for habitat types administered by the state of Vermont, to be captured in the model. I composed this report with the intent for the methodology to be accessible to those without prior experience with GIS. I used Google Earth Engine and WhiteboxTools to achieve the results.  
 
