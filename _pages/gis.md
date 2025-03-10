@@ -9,9 +9,9 @@ toc_sticky: true
 ## API-Driven Species Mapping Dashboard
 For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used FME to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course.
 
-Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.
+Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing){:target="_blank" rel="noopener"}.  
 
-Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing){:target="_blank" rel="noopener"}.
+Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
 
 ## Wildlife Corridor Reproduction Study  
 I completed the following project with a classmate in the Middlebury College course Open GIScience during the Fall 2023 semester. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `stars`, `raster`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
@@ -32,17 +32,17 @@ For the UMass Amherst course Introduction to GIS (Fall 2024), I worked with poin
 
 View the final product [in a separate tab](https://drive.google.com/file/d/1Lri3uqu52yh7oQzEAYZCyndX-f7S0dtb/view?usp=sharing){:target="_blank" rel="noopener"}.    
 
-## Green Needham "Tap Map"  
-In August and September of 2024, I created a web map showing the locations of water fountains and water bottle filling stations in Needham, Massachusetts for the community environmental organization Green Needham. To construct the map, I collected coordinates of water fountains both outdoors and inside public buildings. I then used the WordPress plugin WP Go Maps to create point data.
-
-Access the map at [this link](https://www.greenneedham.org/blog/tap-map/){:target="_blank" rel="noopener"}.  
-
 ## FEMA Special Flood Hazard Area Natural Habitat Report  
 In the following report for the Middlebury College course Conservation Planning, I write about a Google Earth Engine model which calculates the amount of natural habitat in the FEMA Special Flood Hazard Area in Middlebury, Vermont. The report concerns how small variations in model parameters, such as scale, can have impacts on the outputs.  
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310_Report_2.pdf){:target="_blank" rel="noopener"}.    
 
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_2.pdf" type="application/pdf" width="100%" height="100%"></object> 
+
+## Green Needham "Tap Map"  
+In August and September of 2024, I created a web map showing the locations of water fountains and water bottle filling stations in Needham, Massachusetts for the community environmental organization Green Needham. To construct the map, I collected coordinates of water fountains both outdoors and inside public buildings. I then used the WordPress plugin WP Go Maps to create point data.
+
+Access the map at [this link](https://www.greenneedham.org/blog/tap-map/){:target="_blank" rel="noopener"}.  
 
 ## Vermont Forested Habitat Block Report   
 This is a report I composed for the Middlebury College course Conservation Planning in Spring 2023. It involves adding to a forested habitat block model created by instructor Dr. Jeff Howarth to allow for natural communities, a classification system for habitat types administered by the state of Vermont, to be captured in the model. I composed this report with the intent for the methodology to be accessible to those without prior experience with GIS. I used Google Earth Engine and WhiteboxTools to achieve the results.  
