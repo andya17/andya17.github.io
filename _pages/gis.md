@@ -9,9 +9,10 @@ toc_sticky: true
 ## API-Driven Species Mapping Dashboard
 For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which I had practiced previously at Middlebury College (see section Small Mammal Species Range Dashboard).
 
-Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing){:target="_blank" rel="noopener"}.  
-
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
+
+Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing){:target="_blank" rel="noopener"}.  
+ 
 
 ## Wildlife Corridor Reproduction Study  
 I completed the following project with a classmate in the Middlebury College course Open GIScience during the Fall 2023 semester. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `stars`, `raster`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
@@ -21,7 +22,7 @@ Access the published Open Science Framework page, created by instructor Dr. Jose
 Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.  
 
 ## Small Mammal Species Range Dashboard
-For the capstone requirement for the Environmental Studies major at Middlebury College, I was part of a four-person group to assist the Vermont Fish & Wildlife Department in gathering information on small mammals and mesocarnivores for the upcoming 2025 update to the state Wildlife Action Plan. Within my group, I was personally responsible for the creation of 17 public-facing ArcGIS web maps. Each web map displays data on one mammal species from the Global Biodiversity Information Facility and, where applicable, the natural history collections at the University of Vermont. From personal communication with instructor Dr. Alexis Mychajliw, the Mammal Scientific Adivsory Group subsequently used the maps to help update the mammal sections in the forthcoming Wildlife Action Plan.
+For the capstone requirement for the Environmental Studies major at Middlebury College, I was part of a four-person group to assist the Vermont Fish & Wildlife Department in gathering information on small mammals and mesocarnivores for the upcoming 2025 update to the state Wildlife Action Plan. Within my group, I was personally responsible for the creation of 17 public-facing ArcGIS web maps. Each web map displays data on one mammal species from the Global Biodiversity Information Facility and, where applicable, the natural history collections at the University of Vermont. From personal communication with instructor Dr. Alexis Mychajliw, the Mammal Scientific Adivsory Group subsequently used the maps to help update the mammal sections in the forthcoming Wildlife Action Plan update.
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/2f52ab2706a64eafa392d2398a244e2f){:target="_blank" rel="noopener"}. Note that the first map may initially take time to load – the user can expedite loading by zooming into the map element (the large rectangle, if it is not loading) and waiting for a short period of time.  
 
