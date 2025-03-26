@@ -50,10 +50,3 @@ This is a report I composed for the Middlebury College course Conservation Plann
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
 
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=50&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
-
-## Ecological Restoration Case Studies StoryMap  
-I created an ArcGIS StoryMap in 2023 as part of an internship with environmental consultant Betsy Taylor, formerly of Breakthrough Strategies and Solutions. An embedded map shows the locations of 19 successful case studies of ecological restoration. I identified and summarized the selected case studies with the advisory of Ms. Taylor, who herself wrote the introduction to the StoryMap. This document is named on Ms. Taylor's website as representing her "Ecological Restoration Initiative".  
-
-Access the project summary page, created by supervisor Betsy Taylor, at [this link](https://www.betsytaylor.com/strategic-initiatives-case-studies/advancing-ecological-restoration){:target="_blank" rel="noopener"}.  
-
-Access the StoryMap directly at [this link](https://storymaps.arcgis.com/stories/46bd378112e649c793d9af76f59d5ced){:target="_blank" rel="noopener"}.  
