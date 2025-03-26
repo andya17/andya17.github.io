@@ -16,20 +16,20 @@ p + ul {
 Below is a list of selected courses in which I have enrolled at UMass Amherst and Middlebury College.
 
 ### UMass Amherst (M.S. in Geographic Information Science and Technology, 2024-2025)
-* Spatial Databases and Data Interoperability (Environmental Conservation 638)
-* Python for ArcGIS (Environmental Conservation 640) 
-* GIS and Spatial Analysis (Geography 668)
-* Remote Sensing and Image Interpretation (Geography 626) 
-* Spatial Data Analysis in R (Environmental Conservation 637)   
-* WebGIS (Geography 693)
-* Geographic Theory and Analysis (Geography 604)
-* Introduction to GIS (Geography 585)
+* Spatial Databases and Data Interoperability
+* Python for ArcGIS
+* GIS and Spatial Analysis
+* Remote Sensing and Image Interpretation
+* Spatial Data Analysis in R
+* WebGIS
+* Geographic Theory and Analysis
+* Introduction to GIS
 
 ### Middlebury College (B.A. in Conservation Biology, 2020-2024)
-* Open GIScience (Geography 361)
-* Conservation Planning (Geography 310)
-* Cartography (Geography 271)
-* Human Geography with GIS (Geography 261) 
-* Mapping Global Environmental Change (Geography 150)
-* Statistical Learning (Statistics 218)
-* Biostatistics (Biology 211)
+* Open GIScience
+* Conservation Planning
+* Cartography
+* Human Geography with GIS 
+* Mapping Global Environmental Change
+* Statistical Learning
+* Biostatistics
