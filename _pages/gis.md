@@ -35,7 +35,7 @@ In February 2025, I took on a project to update a topographic map of the UMass A
 
 View the reference map (first page) and the updated map (second page) below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf){:target="_blank" rel="noopener"}.
 
-<object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
+<object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=52&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
 
 ## Climate-based Invasive Species Distribution Model
 <img src="https://andya17.github.io/assets/GitHub-Picture-Climate-Short.png" alt="">    
