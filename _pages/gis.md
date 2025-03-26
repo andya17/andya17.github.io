@@ -7,12 +7,13 @@ toc_sticky: true
 ---
 
 ## API-Driven Species Mapping Dashboard
+
 For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which I had practiced previously at Middlebury College (see section Small Mammal Species Range Dashboard).
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
 
 Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing){:target="_blank" rel="noopener"}.  
- 
+
 
 ## Wildlife Corridor Reproduction Study  
 I completed the following project with a classmate in the Middlebury College course Open GIScience during the Fall 2023 semester. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `stars`, `raster`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
@@ -32,7 +33,7 @@ In February 2025, I took on a project to update a topographic map of the UMass A
 
 View the reference map (first page) and the updated map (second page) below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf){:target="_blank" rel="noopener"}.
 
-<object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=50&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
+<object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=52&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
 
 ## Climate-based Invasive Species Distribution Model
 For the UMass Amherst course Introduction to GIS (Fall 2024), I worked with point data for the plant English Ivy, invasive in some U.S. states, to predict the future distribution of the species in the United States and Canada with forecasted shifts in climatic variables.
@@ -50,4 +51,4 @@ This is a report I composed for the Middlebury College course Conservation Plann
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
 
-<object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=50&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+<object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=52&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
