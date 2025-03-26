@@ -7,7 +7,7 @@ toc_sticky: true
 ---
 
 ## API-Driven Species Mapping Dashboard
-For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used FME to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course.
+For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which I had practiced previously at Middlebury College (see section Small Mammal Species Range Dashboard).
 
 Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing){:target="_blank" rel="noopener"}.  
 
@@ -19,6 +19,12 @@ I completed the following project with a classmate in the Middlebury College cou
 Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/){:target="_blank" rel="noopener"}.  
 
 Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.  
+
+## Small Mammal Species Range Dashboard
+For the capstone requirement for the Environmental Studies major at Middlebury College, I was part of a four-person group to assist the Vermont Fish & Wildlife Department in gathering information on small mammals and mesocarnivores for the upcoming 2025 update to the state Wildlife Action Plan. Within my group, I was personally responsible for the creation of 17 public-facing ArcGIS web maps. Each web map displays data on one mammal species from the Global Biodiversity Information Facility and, where applicable, the natural history collections at the University of Vermont. From personal communication with instructor Dr. Alexis Mychajliw, the Mammal Scientific Adivsory Group subsequently used the maps after my graduation to update species range information for the forthcoming Wildlife Action Plan.
+
+Access the ArcGIS Dashboard at [this link](https://umass-amherst.maps.arcgis.com/apps/dashboards/2f52ab2706a64eafa392d2398a244e2f). Note that the first map may initially take time to load – the user can expedite loading by zooming into the map element (the large rectangle, if it is not loading) and waiting for a short period of time.  
+
 
 ## Topographic Map Replication
 In February 2025, I took on a project to update a topographic map of the UMass Amherst campus for use in the class materials of an introductory Geology course. The professor provided me with a map printed on physical media with no online sources. I used LiDAR, road, and building data within ArcGIS Pro to replicate the extent and style of the reference map while ensuring that contour line features reflected more current topography. The professor, Dr. William Clement, plans to use the new map in his course during the Spring 2025 semester.
@@ -32,12 +38,6 @@ For the UMass Amherst course Introduction to GIS (Fall 2024), I worked with poin
 
 View the final product [in a separate tab](https://drive.google.com/file/d/1Lri3uqu52yh7oQzEAYZCyndX-f7S0dtb/view?usp=sharing){:target="_blank" rel="noopener"}.    
 
-## FEMA Special Flood Hazard Area Natural Habitat Report  
-In the following report for the Middlebury College course Conservation Planning, I write about a Google Earth Engine model which calculates the amount of natural habitat in the FEMA Special Flood Hazard Area in Middlebury, Vermont. The report concerns how small variations in model parameters, such as scale, can have impacts on the outputs.  
-
-Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310_Report_2.pdf){:target="_blank" rel="noopener"}.    
-
-<object data="https://andya17.github.io/_pages/pdfs/GEOG310_Report_2.pdf" type="application/pdf" width="100%" height="100%"></object> 
 
 ## Green Needham "Tap Map"  
 In August and September of 2024, I created a web map showing the locations of water fountains and water bottle filling stations in Needham, Massachusetts for the community environmental organization Green Needham. To construct the map, I collected coordinates of water fountains both outdoors and inside public buildings. I then used the WordPress plugin WP Go Maps to create point data.
