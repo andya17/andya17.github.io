@@ -10,7 +10,7 @@ This paper is the product of an elective senior independent study I completed at
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/ENVS700_Final_Report.pdf){:target="_blank" rel="noopener"}.    
 
-<object data="https://andya17.github.io/_pages/pdfs/ENVS700_Final_Report.pdf#zoom=52&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+<object data="https://andya17.github.io/_pages/pdfs/ENVS700_Final_Report.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
 ## Ecological Restoration Case Studies StoryMap  
 I created an ArcGIS StoryMap in 2023 as part of an internship with environmental consultant Betsy Taylor, formerly of Breakthrough Strategies and Solutions. An embedded map shows the locations of 19 successful case studies of ecological restoration. I identified and summarized the selected case studies with the advisory of Ms. Taylor, who herself wrote the introduction to the StoryMap. This document is named on Ms. Taylor's website as representing her "Ecological Restoration Initiative".  
@@ -24,11 +24,11 @@ This paper is an independent project I completed in Spring 2022 for the Middlebu
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/BIOL392_Project_1.pdf){:target="_blank" rel="noopener"}.  
 
-<object data="https://andya17.github.io/_pages/pdfs/BIOL392_Project_1.pdf#zoom=52&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+<object data="https://andya17.github.io/_pages/pdfs/BIOL392_Project_1.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
 ## Species Range Mapping Guide  
 This is an individual assignment I completed in Spring 2024 for the Environmental Studies senior capstone course at Middlebury College. As part of a semester-long group project with three other students to assist the Vermont Fish and Wildlife Department, I created a set of maps on ArcGIS Online showing the relationship between species occurrence points and natural communities, a classification system for habitat types administered by the state of Vermont. The below document is a guide to create such a map for a non-technical audience.  
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/ENVS401_AGOL_Guide.pdf){:target="_blank" rel="noopener"}.  
 
-<object data="https://andya17.github.io/_pages/pdfs/ENVS401_AGOL_Guide.pdf#zoom=52&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+<object data="https://andya17.github.io/_pages/pdfs/ENVS401_AGOL_Guide.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
