@@ -23,7 +23,7 @@ Access my version of the report for the project at [this link](https://andya17.g
 ## Small Mammal Species Range Dashboard
 For the capstone requirement for the Environmental Studies major at Middlebury College, I was part of a four-person group to assist the Vermont Fish & Wildlife Department in gathering information on small mammals and mesocarnivores for the upcoming 2025 update to the state Wildlife Action Plan. Within my group, I was personally responsible for the creation of 17 public-facing ArcGIS web maps. Each web map displays data on one mammal species from the Global Biodiversity Information Facility and, where applicable, the natural history collections at the University of Vermont. From personal communication with instructor Dr. Alexis Mychajliw, the Mammal Scientific Adivsory Group subsequently used the maps to help update the mammal sections in the forthcoming Wildlife Action Plan.
 
-Access the ArcGIS Dashboard at [this link](https://umass-amherst.maps.arcgis.com/apps/dashboards/2f52ab2706a64eafa392d2398a244e2f){:target="_blank" rel="noopener"}. Note that the first map may initially take time to load – the user can expedite loading by zooming into the map element (the large rectangle, if it is not loading) and waiting for a short period of time.  
+Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/2f52ab2706a64eafa392d2398a244e2f){:target="_blank" rel="noopener"}. Note that the first map may initially take time to load – the user can expedite loading by zooming into the map element (the large rectangle, if it is not loading) and waiting for a short period of time.  
 
 
 ## Topographic Map Replication
