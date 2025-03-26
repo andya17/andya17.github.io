@@ -7,7 +7,7 @@ toc_sticky: true
 ---
 
 ## API-Driven Species Mapping Dashboard
-
+<img src="https://andya17.github.io/_pages/assets/GitHub-Picture-API.jpg" alt="">  
 For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which I had practiced previously at Middlebury College (see section Small Mammal Species Range Dashboard).
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
