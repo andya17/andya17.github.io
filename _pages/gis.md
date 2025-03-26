@@ -31,7 +31,7 @@ In February 2025, I took on a project to update a topographic map of the UMass A
 
 View the reference map (first page) and the updated map (second page) below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf){:target="_blank" rel="noopener"}.
 
-<object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=55&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
+<object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=50&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
 
 ## Climate-based Invasive Species Distribution Model
 For the UMass Amherst course Introduction to GIS (Fall 2024), I worked with point data for the plant English Ivy, invasive in some U.S. states, to predict the future distribution of the species in the United States and Canada with forecasted shifts in climatic variables.
@@ -49,7 +49,7 @@ This is a report I composed for the Middlebury College course Conservation Plann
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
 
-<object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=55&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+<object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=50&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
 ## Ecological Restoration Case Studies StoryMap  
 I created an ArcGIS StoryMap in 2023 as part of an internship with environmental consultant Betsy Taylor, formerly of Breakthrough Strategies and Solutions. An embedded map shows the locations of 19 successful case studies of ecological restoration. I identified and summarized the selected case studies with the advisory of Ms. Taylor, who herself wrote the introduction to the StoryMap. This document is named on Ms. Taylor's website as representing her "Ecological Restoration Initiative".  
