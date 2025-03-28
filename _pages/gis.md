@@ -66,6 +66,6 @@ I am currently working as a graduate research assistant under Massachusetts Stat
 I will link to the web app when it has been finalized.  
 
 ## International Association for the Study of the Commons Web Map  
-As a project for Dr. Charles Schweik of UMass Amherst, I am developing a web app to help attendees navigate the International Association for the Study of the Commons 20th Biennial Conference, to be held at UMass Amherst in June 2025. To create the map, I am georeferencing floor plans of buildings at which conference presentations are to be held within ArcGIS Pro and will subsequently share the map to ArcGIS Online.
+As a project for Dr. Charles Schweik of UMass Amherst, I am developing a web app to help attendees navigate the International Association for the Study of the Commons [20th Biennial Conference](https://2025.iasc-commons.org/), to be held at UMass Amherst in June 2025. To create the map, I am georeferencing floor plans of campus buildings at which conference presentations are to be held within ArcGIS Pro and will subsequently share the map to ArcGIS Online.
 
 I will link to the web app when it has been finalized.  
