@@ -5,7 +5,7 @@ toc: true
 toc_icon: "cog"
 toc_sticky: true
 ---
-
+# Completed Projects
 ## API-Driven Species Mapping Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-API-Short.png" alt="">   
 For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which formed part of my work in a Middlebury College course (see section Small Mammal Species Range Dashboard).
@@ -56,3 +56,16 @@ This is a report I composed for the Middlebury College course Conservation Plann
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
 
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+
+# Current Projects  
+## MA Geological Survey Salt Marsh Blue Carbon Viewer
+<img src="https://andya17.github.io/assets/GitHub-Picture-BCViewer-Short.png" alt="">   
+I am currently working as a graduate research assistant under Massachusetts State Geologist Brian Yellen. I am developing a salt marsh blue carbon viewer web app on ArcGIS Online which is based upon spatial analysis I conducted within ArcGIS Pro. The app shows the boundaries of each tax parcel which contains salt marsh and presents a calculated carbon sequestration rate for each such polygon. The draft app has undergone review by state personnel; it is hoped that the app will be soon made public to allow tax parcel owners and other interested parties to view the data.       
+
+
+I will link to the web app when it has been finalized.  
+
+## International Association for the Study of the Commons Web Map  
+As a project for Dr. Charles Schweik of UMass Amherst, I am developing a web app to help attendees navigate the International Association for the Study of the Commons 20th Biennial Conference, to be held at UMass Amherst in June 2025. To create the map, I am georeferencing floor plans of buildings at which conference presentations are to be held within ArcGIS Pro and will subsequently share the map to ArcGIS Online.
+
+I will link to the web app when it has been finalized.  
