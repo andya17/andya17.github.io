@@ -5,7 +5,6 @@ toc: true
 toc_icon: "cog"
 toc_sticky: true
 ---
-# WebGIS Portfolio
 
 The following is a digital portfolio assignment created for the course GEOG 693: WebGIS, in which I was enrolled during the Spring 2025 semester. Students were tasked with choosing three strong assignments from the course and were encouraged to add interactive elements such as pop-ups.
 
@@ -13,12 +12,12 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 
 <b>Platform:</b> ArcGIS Online  
 <b>Modification of:</b> Production Assignment 2: Data Configuration  
-<b>Original feedback:</b> *I received no TA feedback on this assignment after my original submission.*
+<b>Original feedback:</b> *I received no TA feedback on this assignment after my original submission.* In the absence of feedback, I considered what changes I could make to increase interactivity and implemented my own personal thoughts.
 
-<b>Description:</b> This product is a web app created in ArcGIS Online Experience Builder. 
+<b>Description:</b> This product is a web app created in ArcGIS Experience Builder. It aims to present 
 
 <b>Improvements made:</b>  
-* The Production Assignment on which this product is based was constructed using ArcGIS Instant Apps, which was the Esri-created web app tool students interacted with in the early weeks of class. I expanded the features of the web app by instead creating an app in Experience Builder.
+* The Production Assignment on which this product is based was constructed using ArcGIS Instant Apps, which was the Esri-created web app tool students interacted with in the early weeks of class. I expanded the features of the web app by instead creating an app in ArcGIS Experience Builder, a 
 
 
 ## Product 2: Pioneer Valley Invasive Species Survey
