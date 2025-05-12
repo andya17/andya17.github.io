@@ -12,7 +12,7 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 
 <b>Platform:</b> ArcGIS Online  
 <b>Modification of:</b> Production Assignment 2: Data Configuration  
-<b>Original feedback:</b> *I received no TA feedback on this assignment after my original submission.* In the absence of feedback, I considered what changes I could make to increase interactivity and implemented my own personal thoughts.
+<b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
 <b>Description:</b> This product is a web app created in ArcGIS Experience Builder. It aims to present 
 
@@ -22,5 +22,7 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 
 ## Product 2: Pioneer Valley Invasive Species Survey
 
-
+<b>Platform:</b> ArcGIS Survey123  
+<b>Modification of:</b> Production Assignment 8: Making A Survey   
+<b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
