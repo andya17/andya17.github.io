@@ -9,11 +9,10 @@ toc_sticky: true
 The following is a digital portfolio assignment created for the course GEOG 693: WebGIS, in which I was enrolled during the Spring 2025 semester. Students were tasked with choosing three strong assignments and improving them.
 
 ## Product 1: Invasive Species and Areas of Critical Environmental Concern
-
 ### [Link to Product](https://experience.arcgis.com/experience/fdbb13b1c65d4b088b4496130dabb7ba)
 
 <b>Platform:</b> ArcGIS Online  
-<b>Modification of:</b> Production Assignment 2: Data Configuration  
+<b>Modification of:</b> Production Assignment 2: Data Configuration   
 <b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
 <b>Description:</b> This product is a web app created in ArcGIS Experience Builder. It aims to present a point layer of an invasive plant species – yellow horned poppy – alongside one of the MassGIS conservation-related layers – Areas of Critical Environmental Concern. The product is based on the idea that the managers of these vital areas would want to see whether any invasive plant observation points are particularly close or even inside their borders, for part of the danger of invasive plants is whether they might spread to new areas in the future.
@@ -27,11 +26,10 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 
 
 ## Product 2: Pioneer Valley Invasive Species Survey
-
 ### [Link to Product](https://survey123.arcgis.com/share/98c527fcc73f4774918355814c75790b)
 
-<b>Platform:</b> ArcGIS Survey123  
-<b>Modification of:</b> Production Assignment 8: Making a Survey   
+<b>Platform:</b> ArcGIS Survey123   
+<b>Modification of:</b> Production Assignment 8: Making a Survey    
 <b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
 <b>Description:</b> This product is a web survey created in ArcGIS Survey 123. Its aim is to provide a way for community members to send geographic information concerning invasive species sightings directly to non-profit organizations or governmental bodies invested in invasive species monitoring. While I was not sure if a survey fit the expectations of the assignment, instructor Dr. Hongyu Zhang provided that students should make sure any included survey asks a spatial question and encourages users to contribute. I feel that the product meets these requirements. 
@@ -43,10 +41,9 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 
 
 ## Product 3: UMass Amherst Science Building Tour
-
 ### [Link to Product](https://jsfiddle.net/aatallah/sk6q9rcx/88/)
 
-<b>Platform:</b> Google Maps JavaScript API, JSFiddle 
+<b>Platform:</b> Google Maps JavaScript API, JSFiddle  
 <b>Modification of:</b> Production Assignment 6: Making A Google Map  
 <b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
