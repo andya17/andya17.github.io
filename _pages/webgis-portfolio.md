@@ -5,6 +5,11 @@ toc: true
 toc_icon: "cog"
 toc_sticky: true
 ---
+<style>
+h3 {
+  margin-bottom: 0;
+}
+</style>
 
 The following is a digital portfolio assignment created for the course GEOG 693: WebGIS, in which I was enrolled during the Spring 2025 semester. Students were tasked with choosing three strong assignments and improving them.
 
