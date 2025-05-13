@@ -25,14 +25,14 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 * Users can choose to view bookmarks which correspond to the inset maps on the previous version, which were perhaps in the way sometimes.
 
 
-### Product 2: Pioneer Valley Invasive Species Survey
+### Product 2: Amherst Area Invasive Plant Species Survey
 #### [Link to Product](https://survey123.arcgis.com/share/98c527fcc73f4774918355814c75790b)
 
 <b>Platform:</b> ArcGIS Survey123   
 <b>Modification of:</b> Production Assignment 8: Making a Survey    
 <b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
-<b>Description:</b> This product is a web survey created in ArcGIS Survey 123. Its aim is to provide a way for community members to send geographic information concerning invasive species sightings directly to non-profit organizations or governmental bodies invested in invasive species monitoring. While I was not sure if a survey fit the expectations of the assignment, instructor Dr. Hongyu Zhang provided that students should make sure any included survey asks a spatial question and encourages users to contribute. I feel that the product meets these requirements. 
+<b>Description:</b> This product is a web survey created in ArcGIS Survey 123. Its aim is to provide a way for community members to send geographic information concerning invasive species sightings directly to non-profit organizations or governmental bodies invested in aquatic invasive species monitoring. I was directly inspired to create this survey based on a summer internship I had with Charles River Watershed Association. My supervisor tasked me with creating a way for the organization to keep up to date on observations of aquatic invasive plant species occurring within the watershed boundaries. One of the options I looked at was Survey123, but my supervisor recommended we use an iNaturalist project group instead. I was thus already interested in what this form might look like in Survey123. While I was not sure if a survey fit the expectations of the assignment, instructor Dr. Hongyu Zhang provided that students should make sure any included survey asks a spatial question and encourages users to contribute. I feel that the product meets these requirements. 
 
 <b>Improvements made:</b>  
 * Added important contextual information and links to the description of the survey.
