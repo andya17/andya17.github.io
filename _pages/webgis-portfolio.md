@@ -42,14 +42,17 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 <style>.embed-container {position: relative; height: 0; padding-bottom:80%; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe name="survey123webform" width="500" height="400" frameborder="0" marginheight="0" marginwidth="0" title="Amherst Area Aquatic Invasive Plant Monitoring" src="//survey123.arcgis.com/share/98c527fcc73f4774918355814c75790b" allow="geolocation https://survey123.arcgis.com; camera https://survey123.arcgis.com"></iframe></div><script>var survey123webform = document.getElementsByName('survey123webform')[0];window.addEventListener("message",e=>{if(e.data){var t=JSON.parse(e.data);["survey123:webform:formLoaded","survey123:onFormLoaded"].includes(t.event)&&t.contentHeight&&(survey123webform.parentNode.style.height=t.contentHeight+"px")&&(survey123webform.parentNode.style["padding-bottom"]="unset")}});</script>
 
 ## Product 3: UMass Amherst Science Building Tour
-### [Link to Product](https://jsfiddle.net/aatallah/sk6q9rcx/88/)
+### [Link to Product](https://jsfiddle.net/aatallah/sk6q9rcx/142/)
 
 <b>Platform:</b> Google Maps JavaScript API, JSFiddle  
 <b>Modification of:</b> Production Assignment 6: Making A Google Map  
 <b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
-<b>Description:</b> This product is a Google Map created using the Google Maps JavaScript API and the associated documentation for this service. The goal of the map is to present a series of features 
+<b>Description:</b> This product is a Google Map created using the Google Maps JavaScript API and the associated documentation for this service. The goal of the map is to present a series of features - in this case, science buildings on the UMass Amherst campus - and create a natural order between them to facilitate a self-guided walking tour. There are many buildings on campus, and this map highlights a few for STEM-minded prospective students or those new to campus so that they are not lost in the sea of other place names. Using the Google Maps JavaScript API proved challenging but rewarding in terms of the content I was able to create.
 
 <b>Improvements made:</b>  
 * Added pop-ups using JavaScript to show names of science buildings.
+* Added many more features to fill out a roster of science buildings for a tour.
+* Added a real purpose to the map - i.e., a tour - rather than simply showing a set of science buildings. Used official UMass branding to add authenticity and association with University materials.
 * Added numerical glyph to feature pins to show an order by which a user may take a tour from one side of campus (Holdsworth) to the other (Morrill).
+* Highlighted Lot 25 with a polygon. It seemed like good place to park given the location of Stop 1, Holdsworth Hall.
