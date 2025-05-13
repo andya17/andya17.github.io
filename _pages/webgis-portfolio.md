@@ -10,7 +10,7 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 
 ## Product 1: Invasive Species and Areas of Critical Environmental Concern
 
-### Link to Product
+### [Link to Product](https://experience.arcgis.com/experience/fdbb13b1c65d4b088b4496130dabb7ba)
 
 <b>Platform:</b> ArcGIS Online  
 <b>Modification of:</b> Production Assignment 2: Data Configuration  
@@ -24,7 +24,7 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 
 ## Product 2: Pioneer Valley Invasive Species Survey
 
-### Link to Product
+### [Link to Product](https://survey123.arcgis.com/share/98c527fcc73f4774918355814c75790b)
 
 <b>Platform:</b> ArcGIS Survey123  
 <b>Modification of:</b> Production Assignment 8: Making a Survey   
@@ -38,7 +38,7 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 
 ## Product 3: UMass Amherst Science Building Tour
 
-### Link to Product
+### [Link to Product](https://jsfiddle.net/aatallah/sk6q9rcx/88/)
 
 <b>Platform:</b> Google Maps JavaScript API, JSFiddle 
 <b>Modification of:</b> Production Assignment 6: Making A Google Map  
