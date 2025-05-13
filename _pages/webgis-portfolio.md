@@ -34,10 +34,12 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 <b>Modification of:</b> Production Assignment 8: Making a Survey   
 <b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
-<b>Description:</b> This product is a web survey created in ArcGIS Survey 123. Its aim is to provide a way for community members to send geographic information concerning invasive species sightings directly to non-profit organizations or governmental bodies invested in invasive species monitoring.
+<b>Description:</b> This product is a web survey created in ArcGIS Survey 123. Its aim is to provide a way for community members to send geographic information concerning invasive species sightings directly to non-profit organizations or governmental bodies invested in invasive species monitoring. While I was not sure if a survey fit the expectations of the assignment, instructor Dr. Hongyu Zhang provided that students should make sure any included survey asks a spatial question and encourages users to contribute. I feel that the product meets these requirements. 
 
 <b>Improvements made:</b>  
-* 
+* Added important contextual information and links to the description of the survey.
+* Introduced and added links to iNaturalist for the invasive plant chosen in a question to foster knowledge of community science and encourage contribution to a global database.
+* Added visibility rule for geospatial questions to reflect the concept of geoprivacy. Users may be concerned about their device asking for their location, so a list of popular water features is included if users opt not to show their location.
 
 
 ## Product 3: UMass Amherst Science Building Tour
@@ -48,4 +50,8 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 <b>Modification of:</b> Production Assignment 6: Making A Google Map  
 <b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
-<b>Description:</b> This product is a Google Map created using the Google Maps JavaScript API and the associated documentation for this service.
+<b>Description:</b> This product is a Google Map created using the Google Maps JavaScript API and the associated documentation for this service. The goal of the map is to present a series of features 
+
+<b>Improvements made:</b>  
+* Added pop-ups using JavaScript to show names of science buildings.
+* Added numerical glyph to feature pins to show an order by which a user may take a tour from one side of campus (Holdsworth) to the other (Morrill).
