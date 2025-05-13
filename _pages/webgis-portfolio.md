@@ -16,10 +16,14 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 <b>Modification of:</b> Production Assignment 2: Data Configuration  
 <b>Original feedback:</b> *While the TA graded my assignment, I did not receive written feedback on what to improve.* In the absence of feedback, I thought back on the course and considered what changes I could make to increase interactivity.
 
-<b>Description:</b> This product is a web app created in ArcGIS Experience Builder. It aims to present 
+<b>Description:</b> This product is a web app created in ArcGIS Experience Builder. It aims to present a point layer of an invasive plant species – yellow horned poppy – alongside one of the MassGIS conservation-related layers – Areas of Critical Environmental Concern. The product is based on the idea that the managers of these vital areas would want to see whether any invasive plant observation points are particularly close or even inside their borders, for part of the danger of invasive plants is whether they might spread to new areas in the future.
 
 <b>Improvements made:</b>  
-* The Production Assignment on which this product is based was constructed using ArcGIS Instant Apps, which was the Esri-created web app tool students interacted with in the early weeks of class. I expanded the features of the web app by instead creating an app in ArcGIS Experience Builder, a 
+* The Production Assignment on which this product is based was constructed using ArcGIS Instant Apps, which is the more limited Esri web app tool students interacted with in the early weeks of class.
+* Users are now able to view the pop-up for a feature in a side panel which matches the height of the screen. This helps in that users are more easily able to see the picture for each yellow horned poppy observation without having to scroll down.
+* Users can flip through all features in both feature layers (polygon areas and observation points) and apply actions to each feature, such as zooming to them.
+* Users can switch the basemap to Imagery to see what the coastline looks like at the spot where an invasive species was observed.
+* Users can choose to view bookmarks which correspond to the inset maps on the previous version, which were perhaps in the way sometimes.
 
 
 ## Product 2: Pioneer Valley Invasive Species Survey
