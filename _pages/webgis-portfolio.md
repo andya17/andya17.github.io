@@ -29,6 +29,7 @@ The following is a digital portfolio assignment created for the course GEOG 693:
 * Users can flip through all features in both feature layers (polygon areas and observation points) and apply actions to each feature, such as zooming to them.
 * Users can switch the basemap to Imagery to see what the coastline looks like at the spot where an invasive species was observed.
 * Users can choose to view bookmarks which correspond to the inset maps on the previous version, which were perhaps in the way sometimes.
+* Users can choose to filter for observations from the current year, the last three years, or the last five years to give a sense of which observations might be able to be curbed as part of an Early Detection and Rapid Response (EDRR) initiative, which aim to tackle invasive plants as soon as they are observed.
 
 
 ### Product 2: Amherst Area Invasive Plant Species Survey
