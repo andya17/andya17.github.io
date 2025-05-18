@@ -26,10 +26,20 @@ Below is a list of selected courses in which I have enrolled at UMass Amherst an
 * Introduction to GIS
 
 ### Middlebury College (B.A. in Conservation Biology, 2020-2024)
+Geography:
 * Open GIScience
 * Conservation Planning
 * Cartography
 * Human Geography with GIS 
 * Mapping Global Environmental Change
+* Population Geography
+
+Statistics:
 * Statistical Learning
 * Biostatistics
+
+Ecology:
+* Aquatic Ecology
+* Plant Community Ecology
+* Biology of Plants
+* Reproducible Biology in R
