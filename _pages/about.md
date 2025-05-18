@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-I am a graduate student in the Geographic Information Science and Technology (GIST) master's program at the University of Massachusetts Amherst. I have now finished my course requirements for the program, and I am set to fulfill the final requirement – a GIS practicum – this summer as a Graduate Research Assistant in the Sediment and Coastal Dynamics Lab. In graduate courses, I studied topics such as:
+I am a graduate student in the Geographic Information Science and Technology (GIST) master's program at the University of Massachusetts Amherst. I have now finished my course requirements for the program, and I am set to fulfill the final requirement – a GIS practicum – this summer as a Graduate Research Assistant, a position in which I will be working under Massachusetts State Geologist Brian Yellen. In graduate courses, I studied topics such as:
 * desktop- and web-based GIS
 * GIS programming
 * spatial analysis with vector and raster data
