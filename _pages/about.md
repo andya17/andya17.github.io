@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-I am a graduate student in the final semester of the Geographic Information Science and Technology (GIST) master's program at the University of Massachusetts Amherst. My courses will be completed by May 16, 2025. At UMass Amherst, I am studying topics such as:
+I am a graduate student in the Geographic Information Science and Technology (GIST) master's program at the University of Massachusetts Amherst. I have now finished my course requirements for the program, and I am set to fulfill the final requirement – a GIS practicum – this summer as a Graduate Research Assistant in the Sediment and Coastal Dynamics Lab. In graduate courses, I studied topics such as:
 * desktop- and web-based GIS
 * GIS programming
 * spatial analysis with vector and raster data
