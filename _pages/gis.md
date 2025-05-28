@@ -60,9 +60,7 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEO
 ## Current Projects  
 ### Massachusetts Geological Survey Salt Marsh Blue Carbon Viewer
 <img src="https://andya17.github.io/assets/GitHub-Picture-BCViewer-Short.png" alt="">   
-I am currently working as a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen. I am developing a salt marsh blue carbon viewer web application on ArcGIS Online which is based upon spatial analysis I conducted within ArcGIS Pro. The app shows the boundaries of each tax parcel which contains salt marsh in Massachusetts and presents a calculated carbon sequestration rate for each such polygon. The draft app has undergone review by state personnel; the app is intended to be be made publicly available after final edits are made to allow tax parcel owners and other interested parties to view the data.       
-
-I will link to the web app when it has been finalized.  
+As a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen in early 2025, I developed a salt marsh blue carbon viewer web application on ArcGIS Online which is based upon spatial analysis I conducted within ArcGIS Pro. The app shows the boundaries of each tax parcel which contains salt marsh in Massachusetts and presents a calculated carbon sequestration rate for each such polygon. The draft app has undergone review by state personnel; the app is intended to be be made publicly available after final edits are made to allow tax parcel owners and other interested parties to view the data.         
 
 ### International Association for the Study of the Commons Web Map  
 As a project for Dr. Charles Schweik of UMass Amherst, I am developing a web app to help attendees to the International Association for the Study of the Commons [20th Biennial Conference](https://2025.iasc-commons.org/), to be held at UMass Amherst in June 2025, navigate campus. To create the map, I am georeferencing floor plans of campus buildings at which conference presentations are to be held within ArcGIS Pro. I will subsequently share the map to ArcGIS Online and configure a web app.
