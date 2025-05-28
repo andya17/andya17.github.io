@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-I am a graduate student in the Geographic Information Science and Technology (GIST) master's program at the University of Massachusetts Amherst. I have now finished my course requirements for the program, and I currently fulfilling the final requirement – a GIS practicum – this summer as an intern for the Massachusetts Geological Survey. In graduate courses, I studied topics such as:
+I am a graduate student in the Geographic Information Science and Technology (GIST) master's program at the University of Massachusetts Amherst. I have now finished my course requirements for the program, and I currently fulfilling the final requirement – a GIS practicum – this summer as an intern for the Massachusetts Geological Survey. I intend to pursue full-time employment after the conclusion of the summer internship. In graduate courses, I studied topics such as:
 * desktop- and web-based GIS
 * GIS programming
 * spatial analysis with vector and raster data
