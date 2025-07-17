@@ -3,6 +3,9 @@ permalink: /course-list/
 title: "Selected Course List"
 ---
 
+<script data-goatcounter="https://andy-gis-portfolio.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 <style>
 p:has(+ ul) {
   margin-bottom: 0;

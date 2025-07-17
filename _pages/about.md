@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-<script data-goatcounter="https://aatallah.goatcounter.com/count"
+<script data-goatcounter="https://andy-gis-portfolio.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
 I am about to graduate from the Geographic Information Science and Technology (GIST) MS program at the University of Massachusetts Amherst. I have completed all courses for the program and have additionally fulfilled the requirement to work on GIS tasks outside the classroom – in my case, at an internship with the Massachusetts Geological Survey. I will remain on contract with that organization until August 30, 2025, and I will officially have my degree conferred at the conclusion of the summer term on September 1, 2025.
