@@ -19,5 +19,5 @@ I intend to pursue full-time employment in the geospatial and/or environmental f
 
 I continue to build upon my studies at Middlebury College, from which I graduated in May 2024 with a B.A. in Environmental Studies and Biology. I was fortunate to be able to take many courses in the Geography department, including several which engaged me in GIS. I learned about the principles of open source GIS, remote sensing, and cartography, the value of a workflow-based approach for geospatial solutions, and the ways in which spatial analysis addresses important questions in the environmental sector.
 
-I believe GIS eager to use what I have learned at both of these institutions at a full-time, entry-level environmental and/or geospatial position in Fall 2025.
+I am eager to use what I have learned at both of these institutions at a full-time, entry-level environmental and/or geospatial position in Fall 2025.
 
