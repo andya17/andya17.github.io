@@ -5,7 +5,7 @@ permalink: /
 <script data-goatcounter="https://andy-gis-portfolio.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
-I have completed all requirements for the **Geographic Information Science and Technology (GIST)** master's program at the University of Massachusetts Amherst. I will have my degree conferred on September 1, 2025, as do all students graduating in the summer session. Throughout the program, I learned and applied advanced GIS concepts and completed a practicum in which I served as a geospatial intern for the Massachusetts Geological Survey. I remain on contract with that internship until August 30, 2025, after which point I hope to obtain a full-time position in the geospatial and/or environmental fields.
+I have completed all requirements for the **Master of Science in Geographic Information Science and Technology (GIST)** at the University of Massachusetts Amherst. I will have my degree conferred on September 1, 2025, as do all students graduating in the summer session. Throughout the program, I learned and applied advanced GIS concepts and completed a practicum in which I served as a geospatial intern for the Massachusetts Geological Survey. I remain on contract with that internship until August 30, 2025, after which point I hope to obtain a full-time position in the geospatial and/or environmental fields.
 
 Before attending UMass, I benefited greatly from completing GIS courses at my undergraduate alma mater, Middlebury College. From both Middlebury and UMass, I have gained experience with topics applicable from the start to the end of a geospatial project. My skills include:
 * obtaining data from the field, an open data portal, or professional contacts
