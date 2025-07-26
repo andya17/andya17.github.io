@@ -26,7 +26,7 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/ENV
 
 <object data="https://andya17.github.io/_pages/pdfs/ENVS700_Final_Report.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
-## Trinidad and Tobago Indicator Species List Report  
+## Trinidad and Tobago Indicator Species Report  
 This paper is an independent project I completed in Spring 2022 for the Middlebury College course Conservation Biology. The report concerns developing a list of important plant and animal species for a particular protected area in Trinidad and Tobago. Composing the paper required detailed literature searches and communication with the government of Trinidad and Tobago to receive additional information.  
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/BIOL392_Project_1.pdf){:target="_blank" rel="noopener"}.  
