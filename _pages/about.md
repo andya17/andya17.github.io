@@ -9,13 +9,13 @@ I have completed all requirements for the **Master of Science in Geographic Info
 
 Before attending UMass, I benefited greatly from completing GIS courses at my undergraduate alma mater, **Middlebury College**. From both Middlebury and UMass, I have gained experience with topics applicable from the start to the end of a geospatial project. My skills include:
 * obtaining data from the field, an open data portal, or professional contacts
-* data cleaning, wrangling, and analyzing using R or SQL
+* cleaning, wrangling, and analyzing data using R or SQL
 * creating extract-transform-load workflows for data interoperability
 * managing projection systems to ensure compatibility
 * scripting with Python to automate repetitive tasks
-* executing spatial analysis with vector and raster data in a desktop GIS environment
-* sharing a desktop project to the web and configuring a web application for public use
-* employing the principles of cartography and accessible graphic design in all map products
+* executing spatial analysis with vector and raster data in ArcGIS Pro
+* sharing a desktop project to the web and configuring an ArcGIS Online web application for public use
+* employing cartography and accessible graphic design in all map products
 * maintaining extensive documentation or version control on project steps to share with team members
 
 Please navigate to the pages linked at the top of this personal website to see examples of my projects as well as my resume. I welcome contact at the email [aatallah101@gmail.com](mailto:aatallah101@gmail.com). 

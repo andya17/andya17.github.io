@@ -6,7 +6,7 @@ toc_sticky: true
 ---
 
 ## Ecological Restoration Case Studies StoryMap  
-I identified and summarized 19 successful case studies of ecological restoration as part of a 2023 internship with environmental consultant [Betsy Taylor](https://www.betsytaylor.com), formerly of Breakthrough Strategies and Solutions. I then created an ArcGIS StoryMap to show the case studies in an embedded map. Ms. Taylor herself wrote the introduction to the StoryMap. This document is named on Ms. Taylor's website as representing her "Ecological Restoration Initiative".  
+I identified and summarized 19 successful case studies of ecological restoration as part of a 2023 internship with environmental consultant [Betsy Taylor](https://www.betsytaylor.com){:target="_blank" rel="noopener"}, formerly of Breakthrough Strategies and Solutions. I then created an ArcGIS StoryMap to show the case studies in an embedded map. Ms. Taylor herself wrote the introduction to the StoryMap. This document is named on Ms. Taylor's website as representing her "Ecological Restoration Initiative".  
 
 Access the StoryMap directly at [this link](https://storymaps.arcgis.com/stories/46bd378112e649c793d9af76f59d5ced){:target="_blank" rel="noopener"}.  
 
