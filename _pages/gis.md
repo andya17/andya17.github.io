@@ -9,16 +9,16 @@ toc_sticky: true
 <script data-goatcounter="https://andy-gis-portfolio.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
-## Current Project  
+## Current Projects  
 ### Massachusetts Geological Survey Salt Marsh Blue Carbon Viewer
 <img src="https://andya17.github.io/assets/GitHub-Picture-BCViewer-Short.png" alt="">   
-As a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen in early 2025, I developed a web application on ArcGIS Online which shows a calculated estimate for carbon sequestration in each Massachusetts tax parcel containing salt marsh. Calculations for carbon sequestration are based on spatial analysis I executed in ArcGIS Pro. The draft app underwent review by state personnel, and I am now tasked with expanding the app to cover the states of Maine, New Hampshire, Rhode Island, Connecticut, New York, and New Jersey. The app is intended to be public-facing once this update is complete.
+As a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen in early 2025, I developed a web application on ArcGIS Online which shows a calculated estimate for carbon sequestration in each Massachusetts tax parcel containing salt marsh. Calculations for carbon sequestration are based on spatial analysis I executed in ArcGIS Pro. The draft app underwent review by state personnel, and now, as an intern with the Massachusetts Geological Survey, I am tasked with expanding the app to cover the states of Maine, New Hampshire, Rhode Island, Connecticut, New York, and New Jersey. The app is intended to be public-facing once this update is complete.
 
 I will share a link to the application once it has been finished.
 
 ## Completed Projects
 ### Species Distribution Modeling in R
-For the UMass Amherst course Spatial Data Analysis in R, I completed a current and future species distribution model for the invasive plant species tree-of-heaven. In this Spring 2025 project, I explored my interest in mapping invasive plants, which I recognize as being important targets for non-profit and governmental land management agencies. I was excited to include methods to remotely download necessary data to alleviate the need for manual updates in the future.  
+For the UMass Amherst course Spatial Data Analysis in R, I completed a current and future species distribution model for the plant species tree-of-heaven, which is considered invasive in Massachusetts. In this Spring 2025 project, I explored my interest in mapping invasive plants, which I recognize as being important targets for land management agencies. I was excited to include methods to download necessary data directly to the project to alleviate the need to manually navigate to websites whenever updated data may be required in the future.
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/SDAR_Final.pdf){:target="_blank" rel="noopener"}.    
 
