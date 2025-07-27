@@ -12,10 +12,10 @@ Before attending UMass, I benefited greatly from completing GIS courses at my un
 * cleaning, wrangling, and analyzing data using R or SQL
 * creating extract-transform-load workflows for data interoperability
 * managing projection systems to ensure compatibility
-* scripting using Python to automate repetitive tasks
 * executing spatial analysis with vector and raster data in ArcGIS Pro
+* scripting using Python to automate repetitive tasks
 * sharing a desktop project to the web and configuring an ArcGIS Online web application for public use
-* employing the principles of cartography and graphic design, including the use of Adobe products
+* employing the principles of cartography and graphic design, including through the use of Adobe products
 * maintaining extensive documentation on project steps to share with team members
 
 Please navigate to the pages linked at the top of this personal website to see examples of my projects as well as my resume. I welcome contact at the email [aatallah101@gmail.com](mailto:aatallah101@gmail.com). 

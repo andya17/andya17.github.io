@@ -12,12 +12,14 @@ toc_sticky: true
 ## Current Project  
 ### Massachusetts Geological Survey Salt Marsh Blue Carbon Viewer
 <img src="https://andya17.github.io/assets/GitHub-Picture-BCViewer-Short.png" alt="">   
-As a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen in early 2025, I developed a web application on ArcGIS Online which shows a calculated estimate for carbon sequestration in each Massachusetts tax parcel containing salt marsh. Calculations for carbon sequestration were completed based on spatial analysis I conducted in ArcGIS Pro. The draft app underwent review by state personnel, and I am now tasked with expanding the app to cover the states of Maine, New Hampshire, Rhode Island, Connecticut, New York, and New Jersey.          
+As a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen in early 2025, I developed a web application on ArcGIS Online which shows a calculated estimate for carbon sequestration in each Massachusetts tax parcel containing salt marsh. Calculations for carbon sequestration are based on spatial analysis I executed in ArcGIS Pro. The draft app underwent review by state personnel, and I am now tasked with expanding the app to cover the states of Maine, New Hampshire, Rhode Island, Connecticut, New York, and New Jersey. The app is intended to be public-facing once this update is complete.
+
+I will share a link to the application once it has been finished.
 
 ## Completed Projects
 ### API-Driven Species Mapping Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-API-Short.png" alt="">   
-For the University of Massachusetts Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which formed part of my work in a Middlebury College course (see section Small Mammal Species Range Dashboard).
+For the UMass Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which formed part of my work in a Middlebury College course (see section Small Mammal Species Range Dashboard).
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
 
@@ -32,9 +34,12 @@ Access the published Open Science Framework page, created by instructor Dr. Jose
 Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.  
 
 ### International Association for the Study of the Commons Web Map  
-As a project for Dr. Charles Schweik of UMass Amherst, I developed a web application to help thousands of attendees to the International Association for the Study of the Commons [20th Biennial Conference](https://2025.iasc-commons.org/), held at UMass Amherst in June 2025, navigate campus. Creating the app involved georeferencing floor plans of campus buildings at which conference presentations were held within ArcGIS Pro. 
+<img src="https://andya17.github.io/assets/GitHub-Picture-IASC-Short.png" alt="">  
+As a project for Dr. Charles Schweik, professor at UMass Amherst, I developed a web application to help attendees navigate campus during the International Association for the Study of the Commons [20th Biennial Conference](https://2025.iasc-commons.org/), held on campus in June 2025. Creating the app involved georeferencing floor plans of campus buildings at which conference presentations were held within ArcGIS Pro. Throughout the conference, which attracted hundreds of attendees from across the world, my application served as the navigational tool for newcomers to campus.
 
-Access the web application at this link.
+Access the web application at [this link](https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101){:target="_blank" rel="noopener"}.
+
+Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/).
 
 ### Small Mammal Species Range Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-SmallMammal-Short.png" alt="">   
