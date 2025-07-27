@@ -20,9 +20,9 @@ I will share a link to the application once it has been finished.
 ### Species Distribution Modeling in R
 For the UMass Amherst course Spatial Data Analysis in R, I completed a current and future species distribution model for the invasive plant species tree-of-heaven. In this Spring 2025 project, I explored my interest in mapping invasive plants, which I recognize as being important targets for non-profit and governmental land management agencies. I was excited to include methods to remotely download necessary data to alleviate the need for manual updates in the future.  
 
-Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/SDAR_Final_PDF.pdf){:target="_blank" rel="noopener"}.    
+Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/SDAR_Final.pdf){:target="_blank" rel="noopener"}.    
 
-<object data="https://andya17.github.io/_pages/pdfs/SDAR_Final_PDF.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+<object data="https://andya17.github.io/_pages/pdfs/SDAR_Final.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
 ### API-Driven Species Mapping Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-API-Short.png" alt="">   
