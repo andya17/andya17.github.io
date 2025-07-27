@@ -42,7 +42,7 @@ Access my version of the report for the project at [this link](https://andya17.g
 
 ### International Association for the Study of the Commons Web Map  
 <img src="https://andya17.github.io/assets/GitHub-Picture-IASC-Short.png" alt="">  
-As a project for Dr. Charles Schweik, professor at UMass Amherst, I developed a web application to help attendees navigate campus during the International Association for the Study of the Commons [20th Biennial Conference](https://2025.iasc-commons.org/), held on campus in June 2025. Creating the app involved georeferencing floor plans of campus buildings at which conference presentations were held within ArcGIS Pro. Throughout the conference, which attracted hundreds of attendees from across the world, my application served as the navigational tool for newcomers to campus.
+As a project for Dr. Charles Schweik, professor at UMass Amherst, I developed a web application to help people navigate during the International Association for the Study of the Commons [20th Biennial Conference](https://2025.iasc-commons.org/), held on campus in June 2025. Creating the app involved georeferencing floor plans of campus buildings at which conference presentations were held within ArcGIS Pro. Throughout the conference, which attracted hundreds of attendees from across the world, my application served as the navigational tool for newcomers to campus.
 
 Access the web application at [this link](https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101){:target="_blank" rel="noopener"}.
 
