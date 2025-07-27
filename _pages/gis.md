@@ -12,7 +12,7 @@ toc_sticky: true
 ## Current Project  
 ### Massachusetts Geological Survey Salt Marsh Blue Carbon Viewer
 <img src="https://andya17.github.io/assets/GitHub-Picture-BCViewer-Short.png" alt="">   
-As a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen in early 2025, I developed a salt marsh blue carbon viewer web application on ArcGIS Online which is based upon spatial analysis I conducted within ArcGIS Pro. The app shows the boundaries of each tax parcel which contains salt marsh in Massachusetts and presents a calculated carbon sequestration rate for each such polygon. The draft app has undergone review by state personnel; the app is intended to be be made publicly available after final edits are made to allow tax parcel owners and other interested parties to view the data.          
+As a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen in early 2025, I developed a web application on ArcGIS Online which shows a calculated estimate for carbon sequestration in each Massachusetts tax parcel containing salt marsh. Calculations for carbon sequestration were completed based on spatial analysis I conducted in ArcGIS Pro. The draft app underwent review by state personnel, and I am now tasked with expanding the app to cover the states of Maine, New Hampshire, Rhode Island, Connecticut, New York, and New Jersey.          
 
 ## Completed Projects
 ### API-Driven Species Mapping Dashboard
