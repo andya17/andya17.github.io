@@ -12,7 +12,7 @@ Before attending UMass, I benefited greatly from completing GIS courses at my un
 * cleaning, wrangling, and analyzing data using R or SQL
 * creating extract-transform-load workflows for data interoperability
 * managing projection systems to ensure compatibility
-* executing spatial analysis with vector and raster data in ArcGIS Pro
+* executing spatial analysis with vector and raster data in ArcGIS Pro and QGIS
 * scripting using Python to automate repetitive tasks
 * sharing a desktop project to the web and configuring an ArcGIS Online web application for public use
 * employing the principles of cartography and graphic design, including through the use of Adobe products
