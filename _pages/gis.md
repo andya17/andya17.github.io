@@ -46,7 +46,14 @@ As a project for Dr. Charles Schweik, professor at UMass Amherst, I developed a 
 
 Access the web application at [this link](https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101){:target="_blank" rel="noopener"}.
 
-Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/).
+Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/).  
+
+### Vermont Forested Habitat Block Report   
+I composed this report for the Middlebury College course Conservation Planning in Spring 2023. It involves adding to a forested habitat block model created by instructor Dr. Jeff Howarth to allow for natural communities, a classification system for habitat types administered by the state of Vermont, to be captured in the model. I composed this report with the intent for the methodology to be accessible to those without prior experience with GIS. I used Google Earth Engine and WhiteboxTools to achieve the results.  
+
+Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
+
+<object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
 ### Small Mammal Species Range Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-SmallMammal-Short.png" alt="">   
@@ -60,13 +67,6 @@ In February 2025, I took on a project to update a topographic map of the UMass A
 View the updated map (first page) and the reference map (second page) below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf){:target="_blank" rel="noopener"}.
 
 <object data="https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf#zoom=52&navpanes=0" type="application/pdf" width="100%" height="100%"></object>    
-
-### Vermont Forested Habitat Block Report   
-I composed this report for the Middlebury College course Conservation Planning in Spring 2023. It involves adding to a forested habitat block model created by instructor Dr. Jeff Howarth to allow for natural communities, a classification system for habitat types administered by the state of Vermont, to be captured in the model. I composed this report with the intent for the methodology to be accessible to those without prior experience with GIS. I used Google Earth Engine and WhiteboxTools to achieve the results.  
-
-Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
-
-<object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
 ### Green Needham "Tap Map"  
 <img src="https://andya17.github.io/assets/GitHub-Picture-TapMap-Short.png" alt="">   
