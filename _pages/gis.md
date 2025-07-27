@@ -17,13 +17,20 @@ As a Graduate Research Assistant under Massachusetts State Geologist Brian Yelle
 I will share a link to the application once it has been finished.
 
 ## Completed Projects
+### Species Distribution Modeling in R
+For the UMass Amherst course Spatial Data Analysis in R, I completed a current and future species distribution model for the invasive plant species tree-of-heaven. In this Spring 2025 project, I explored my interest in mapping invasive plants, which I recognize as being important targets for non-profit and governmental land management agencies. I was excited to include methods to remotely download necessary data to alleviate the need for manual updates in the future.  
+
+Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/SDAR_Final_PDF.pdf){:target="_blank" rel="noopener"}.    
+
+<object data="https://andya17.github.io/_pages/pdfs/SDAR_Final_PDF.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+
 ### API-Driven Species Mapping Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-API-Short.png" alt="">   
 For the UMass Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which formed part of my work in a Middlebury College course (see section Small Mammal Species Range Dashboard).
 
-Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
-
 Access the slide deck for my project presentation, which provides context for the Dashboard, at [this link](https://docs.google.com/presentation/d/1e401MNrQEXoiQ87XqHtF_dQwKDQtLZwugDnEcMgBmyU/edit?usp=sharing){:target="_blank" rel="noopener"}.  
+
+Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
 
 ### Wildlife Corridor Reproduction Study  
 <img src="https://andya17.github.io/assets/GitHub-Picture-WildlifeCorridor-Short.png" alt="">   
