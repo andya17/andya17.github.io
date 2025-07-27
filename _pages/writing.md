@@ -6,7 +6,7 @@ toc_sticky: true
 ---
 
 ## Trinidad and Tobago Indicator Species Report  
-I completed this independent project for the Middlebury College course Conservation Biology. The report concerns consulting the literature to develop a list of important plant and animal species for a particular protected area in Trinidad and Tobago. Composing the paper required detailed literature searches of hundreds of papers as well as communication with the government of Trinidad and Tobago to receive additional information.  
+I completed this independent project for the Middlebury College course Conservation Biology. For the report, I consulted the scientific literature to develop a list of important plant and animal species for a particular protected area in Trinidad and Tobago. Composing the paper required detailed literature searches of hundreds of papers as well as communication with the government of Trinidad and Tobago to receive additional information.  
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/BIOL392_Project_1.pdf){:target="_blank" rel="noopener"}.  
 
