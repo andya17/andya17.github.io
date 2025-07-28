@@ -24,7 +24,7 @@ Read below or [view in a separate tab](https://colab.research.google.com/drive/1
 
 <script src="https://gist.github.com/andya17/46f94ef52a08a94cfee61aa58c2ab4df.js"></script>
 
-### Species Distribution Modeling in R
+### Species Distribution Modeling for an Invasive Plant in R
 For the UMass Amherst course Spatial Data Analysis in R, I completed a current and future species distribution model for the plant species tree-of-heaven, which is considered invasive in Massachusetts. In this Spring 2025 project, I explored my interest in mapping invasive plants, which I recognize as being important targets for land management agencies. I was excited to include methods to download necessary data directly to the project to alleviate the need to manually navigate to websites whenever updated data may be required in the future.
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/SDAR_Final.pdf){:target="_blank" rel="noopener"}.    
@@ -39,7 +39,7 @@ Access the slide deck for my project presentation, which provides context for th
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
 
-### Wildlife Corridor Reproduction Study  
+### Tanzania Wildlife Corridor Reproduction Study  
 <img src="https://andya17.github.io/assets/GitHub-Picture-WildlifeCorridor-Short.png" alt="">   
 I completed the following project with a classmate in the Middlebury College course Open GIScience during the Fall 2023 semester. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `stars`, `raster`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
 
@@ -62,13 +62,13 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEO
 
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
-### Small Mammal Species Range Dashboard
+### Vermont Small Mammal Species Range Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-SmallMammal-Short.png" alt="">   
 For the capstone requirement for the Environmental Studies major at Middlebury College, I was part of a four-person group to assist the Vermont Fish & Wildlife Department in gathering information on small mammals and mesocarnivores for the upcoming 2025 update to the state Wildlife Action Plan. Within my group, I was personally responsible for the creation of 17 public-facing ArcGIS web maps. Each web map displays data on one mammal species from the Global Biodiversity Information Facility and, where applicable, the natural history collections at the University of Vermont. From personal communication with instructor Dr. Alexis Mychajliw, the Mammal Scientific Adivsory Group subsequently used the maps to help update the mammal sections in the forthcoming Wildlife Action Plan update.
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/2f52ab2706a64eafa392d2398a244e2f){:target="_blank" rel="noopener"}. Note that the first map may initially take time to load – the user can expedite loading by zooming into the map element (the large rectangle, if it is not loading) and waiting for a short period of time.  
 
-### Topographic Map Replication
+### UMass Campus Topographic Map Replication
 In February 2025, I took on a project to update a topographic map of the UMass Amherst campus for use in the class materials of an introductory Geology course. The professor provided me with a map printed on physical media with no online sources. I used LiDAR, road, and building data within ArcGIS Pro to replicate the extent and style of the reference map while ensuring that contour line features reflected more current topography. The professor, Dr. William Clement, plans to use the new map in his course during the Spring 2025 semester.
 
 View the updated map (first page) and the reference map (second page) below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf){:target="_blank" rel="noopener"}.
