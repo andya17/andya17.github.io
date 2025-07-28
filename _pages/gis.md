@@ -55,7 +55,7 @@ Access the web application at [this link](https://umass-amherst.maps.arcgis.com/
 
 Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/).  
 
-### Vermont Forested Habitat Block Report   
+### Google Earth Engine Forested Habitat Block Report   
 I composed this report for the Middlebury College course Conservation Planning in Spring 2023. It involves adding to a forested habitat block model created by instructor Dr. Jeff Howarth to allow for natural communities, a classification system for habitat types administered by the state of Vermont, to be captured in the model. I composed this report with the intent for the methodology to be accessible to those without prior experience with GIS. I used Google Earth Engine and WhiteboxTools to achieve the results.  
 
 Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
