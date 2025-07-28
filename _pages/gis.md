@@ -31,7 +31,7 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/SDA
 
 <object data="https://andya17.github.io/_pages/pdfs/SDAR_Final.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
-### API-Driven Species Mapping Dashboard
+### API-Driven Species Mapping Dashboard using FME
 <img src="https://andya17.github.io/assets/GitHub-Picture-API-Short.png" alt="">   
 For the UMass Amherst course Spatial Databases and Data Interoperability, I used Feature Manipulation Engine (FME) to query the API of the Global Biodiversity Information Facility and create an ArcGIS Dashboard to display species occurrence points alongside particular habitat polygons. This was the final project for this Fall 2024 course. This project was intended to improve the workflow for creating similar maps, which formed part of my work in a Middlebury College course (see section Small Mammal Species Range Dashboard).
 
