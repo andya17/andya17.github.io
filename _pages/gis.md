@@ -81,4 +81,4 @@ In August and September of 2024, I created a web map showing the locations of wa
 
 Access the map at [this link](https://www.greenneedham.org/blog/tap-map/){:target="_blank" rel="noopener"}.
 
-Access a blog post published by Green Needham to advertise the map at [this link](https://www.greenneedham.org/blog/2024/09/green-needham-launches-tap-map/).
+Access a blog post published by Green Needham to advertise the map at [this link](https://www.greenneedham.org/blog/2024/09/green-needham-launches-tap-map/){:target="_blank" rel="noopener"}.
