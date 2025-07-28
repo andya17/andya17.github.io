@@ -22,7 +22,7 @@ As the Geospatial Intern at the Massachusetts Geological Survey, I am tasked wit
 
 Read below or [view in a separate tab](https://colab.research.google.com/drive/1QqpY6Auxgmu5l_vxDMRMq2B6C2lv8Q35){:target="_blank" rel="noopener"}.  
 
-<script src="https://gist.github.com/andya17/46f94ef52a08a94cfee61aa58c2ab4df.js"></script>">
+<script src="https://gist.github.com/andya17/46f94ef52a08a94cfee61aa58c2ab4df.js"></script>
 
 ### Species Distribution Modeling in R
 For the UMass Amherst course Spatial Data Analysis in R, I completed a current and future species distribution model for the plant species tree-of-heaven, which is considered invasive in Massachusetts. In this Spring 2025 project, I explored my interest in mapping invasive plants, which I recognize as being important targets for land management agencies. I was excited to include methods to download necessary data directly to the project to alleviate the need to manually navigate to websites whenever updated data may be required in the future.
