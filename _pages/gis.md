@@ -20,9 +20,9 @@ I will share a link to the application once it has been finished.
 ### Python Script to Download MassGIS DEM Tiles
 As the Geospatial Intern at the Massachusetts Geological Survey, I am tasked with obtaining, analyzing, and presenting environmental information for thousands of long-term ecological research plots located in forests across the state. One task which I have completed as part of this process is downloading and managing approximately 1500 digital elevation model (DEM) tiles using a script in a Python Notebook. This script eliminated the need for manual downloading, which would be infeasible given the number of tiles needed, and enabled me to analyze the slope, aspect, and curvature of each 1/5 acre plot.
 
-Read below or [view in a separate tab](https://colab.research.google.com/drive/1QqpY6Auxgmu5l_vxDMRMq2B6C2lv8Q35#scrollTo=J0m-L6zCltfe){:target="_blank" rel="noopener"}.  
+Read below or [view in a separate tab](https://colab.research.google.com/drive/1QqpY6Auxgmu5l_vxDMRMq2B6C2lv8Q35){:target="_blank" rel="noopener"}.  
 
-<script src="https://gist.github.com/andya17/46f94ef52a08a94cfee61aa58c2ab4df"></script>  
+<script src="https://gist.github.com/andya17/46f94ef52a08a94cfee61aa58c2ab4df.js"></script>">
 
 ### Species Distribution Modeling in R
 For the UMass Amherst course Spatial Data Analysis in R, I completed a current and future species distribution model for the plant species tree-of-heaven, which is considered invasive in Massachusetts. In this Spring 2025 project, I explored my interest in mapping invasive plants, which I recognize as being important targets for land management agencies. I was excited to include methods to download necessary data directly to the project to alleviate the need to manually navigate to websites whenever updated data may be required in the future.
