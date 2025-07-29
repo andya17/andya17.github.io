@@ -18,7 +18,7 @@ p + ul {
 
 Below is a list of selected courses in which I have enrolled at UMass Amherst and Middlebury College.
 
-### UMass Amherst (M.S. in Geographic Information Science and Technology, 2024-2025)
+### UMass Amherst (MS in Geographic Information Science and Technology, 2024-2025)
 * Python for ArcGIS
 * Spatial Databases and Data Interoperability
 * Spatial Data Analysis in R
@@ -40,13 +40,10 @@ Statistics:
 * Statistical Learning
 * Biostatistics
 * Reproducible Biology in R
-* Introduction to Data Science
-* Delving into Data
 
 Environment:
 * Conservation and Environmental Policy
 * Aquatic Ecology
 * Plant Community Ecology
 * Biology of Plants
-* Ecology and Evolution
 * U.S. Environmental History
