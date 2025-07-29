@@ -5,6 +5,9 @@ toc: true
 toc_sticky: true
 ---
 
+<script data-goatcounter="https://andy-gis-portfolio.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 ## Trinidad and Tobago Indicator Species Report  
 I completed this independent project for the Middlebury College course Conservation Biology. For the report, I consulted the scientific literature to develop a list of important plant and animal species for a particular protected area in Trinidad and Tobago. Composing the paper required detailed literature searches of hundreds of papers as well as communication with the government of Trinidad and Tobago to receive additional information.  
 

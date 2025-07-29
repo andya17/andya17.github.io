@@ -1,5 +1,5 @@
 ---
-permalink: /gis/
+permalink: /
 title: "GIS Projects"
 toc: true
 toc_icon: "cog"

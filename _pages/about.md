@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 ---
 
 <script data-goatcounter="https://andy-gis-portfolio.goatcounter.com/count"
