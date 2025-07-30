@@ -9,6 +9,8 @@ toc_sticky: true
 <script data-goatcounter="https://andy-gis-portfolio.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+Welcome to my GIS portfolio. I am eager to put my skills to work in the geospatial and/or environmental sectors.
+
 ## Current Projects  
 ### Massachusetts Geological Survey Salt Marsh Blue Carbon Viewer
 <img src="https://andya17.github.io/assets/GitHub-Picture-BCViewer-Short.png" alt="">   
