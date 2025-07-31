@@ -64,6 +64,13 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEO
 
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
+### Publication-Quality Map of Europe for Academic Journal
+
+I created a map of European cemeteries for UMass Anthropology PhD student Claire L. Gold for use in a recent submission to the American Journal of Human Biology. I was delighted to contribute by creating and refining the map using ArcGIS Pro, and I also ensured that my exported map conformed to the image standards set by the journal.
+
+View the map below:
+<img src="https://andya17.github.io/assets/Figure2_Final_Medieval_Pops_AA_CG.png" alt="">   
+
 ### Vermont Small Mammal Species Range Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-SmallMammal-Short.png" alt="">   
 For the capstone requirement for the Environmental Studies major at Middlebury College, I was part of a four-person group to assist the Vermont Fish & Wildlife Department in gathering information on small mammals and mesocarnivores for the upcoming 2025 update to the state Wildlife Action Plan. Within my group, I was personally responsible for the creation of 17 public-facing ArcGIS web maps. Each web map displays data on one mammal species from the Global Biodiversity Information Facility and, where applicable, the natural history collections at the University of Vermont. From personal communication with instructor Dr. Alexis Mychajliw, the Mammal Scientific Adivsory Group subsequently used the maps to help update the mammal sections in the forthcoming Wildlife Action Plan update.
