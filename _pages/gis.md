@@ -65,8 +65,7 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEO
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
 
 ### Publication-Quality Map of Europe for Academic Journal
-
-I created a map of European cemeteries for UMass Anthropology PhD student Claire L. Gold for use in a recent submission to the American Journal of Human Biology. I was delighted to contribute by creating and refining the map using ArcGIS Pro, and I also ensured that my exported map conformed to the image standards set by the journal.
+In July 2025, I created a map of European cemeteries for UMass Anthropology PhD student Claire L. Gold for use in a recent submission to the American Journal of Human Biology. I was delighted to contribute by creating and refining the map using ArcGIS Pro, and I also ensured that my exported map conformed to the image standards set by the journal.
 
 View the map below:
 <img src="https://andya17.github.io/assets/Figure2_Final_Medieval_Pops_AA_CG.png" alt="">   
