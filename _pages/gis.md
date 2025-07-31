@@ -47,7 +47,7 @@ I completed the following project with a classmate in the Middlebury College cou
 
 Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/){:target="_blank" rel="noopener"}.  
 
-Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.  
+Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.   
 
 ### International Association for the Study of the Commons Web Map  
 <img src="https://andya17.github.io/assets/GitHub-Picture-IASC-Short.png" alt="">  
@@ -55,26 +55,26 @@ As a project for Dr. Charles Schweik, a UMass Amherst professor, I developed a w
 
 Access the web application at [this link](https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101){:target="_blank" rel="noopener"}.
 
-Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/).  
-
-### Google Earth Engine Forested Habitat Block Report   
-I composed this report for the Middlebury College course Conservation Planning in Spring 2023. It involves adding to a forested habitat block model created by instructor Dr. Jeff Howarth to allow for natural communities, a classification system for habitat types administered by the state of Vermont, to be captured in the model. I composed this report with the intent for the methodology to be accessible to those without prior experience with GIS. I used Google Earth Engine and WhiteboxTools to achieve the results.  
-
-Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
-
-<object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object>  
+Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/). 
 
 ### Publication-Quality Map of Europe for Academic Journal
 In July 2025, I created a map of European cemeteries for UMass Anthropology PhD student Claire L. Gold for use in a recent submission to the American Journal of Human Biology. I was delighted to contribute by creating and refining the map using ArcGIS Pro, and I also ensured that my exported map conformed to the image standards set by the journal.
 
 View the map below:
-<img src="https://andya17.github.io/assets/Figure2_Final_Medieval_Pops_AA_CG.png" alt="">   
+<img src="https://andya17.github.io/assets/Figure2_Final_Medieval_Pops_AA_CG.png" alt="">  
 
 ### Vermont Small Mammal Species Range Dashboard
 <img src="https://andya17.github.io/assets/GitHub-Picture-SmallMammal-Short.png" alt="">   
 For the capstone requirement for the Environmental Studies major at Middlebury College, I was part of a four-person group to assist the Vermont Fish & Wildlife Department in gathering information on small mammals and mesocarnivores for the upcoming 2025 update to the state Wildlife Action Plan. Within my group, I was personally responsible for the creation of 17 public-facing ArcGIS web maps. Each web map displays data on one mammal species from the Global Biodiversity Information Facility and, where applicable, the natural history collections at the University of Vermont. From personal communication with instructor Dr. Alexis Mychajliw, the Mammal Scientific Adivsory Group subsequently used the maps to help update the mammal sections in the forthcoming Wildlife Action Plan update.
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/2f52ab2706a64eafa392d2398a244e2f){:target="_blank" rel="noopener"}. Note that the first map may initially take time to load – the user can expedite loading by zooming into the map element (the large rectangle, if it is not loading) and waiting for a short period of time.  
+
+### Google Earth Engine Forested Habitat Block Report   
+I composed this report for the Middlebury College course Conservation Planning in Spring 2023. It involves adding to a forested habitat block model created by instructor Dr. Jeff Howarth to allow for natural communities, a classification system for habitat types administered by the state of Vermont, to be captured in the model. I composed this report with the intent for the methodology to be accessible to those without prior experience with GIS. I used Google Earth Engine and WhiteboxTools to achieve the results.  
+
+Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf){:target="_blank" rel="noopener"}.    
+
+<object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
 
 ### UMass Campus Topographic Map Replication
 In February 2025, I took on a project to update a topographic map of the UMass Amherst campus for use in the class materials of an introductory Geology course. The professor provided me with a map printed on physical media with no online sources. I used LiDAR, road, and building data within ArcGIS Pro to replicate the extent and style of the reference map while ensuring that contour line features reflected more current topography. The professor, Dr. William Clement, plans to use the new map in his course during the Spring 2025 semester.
