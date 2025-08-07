@@ -59,7 +59,7 @@ Access the web application below or at [this link](https://umass-amherst.maps.ar
 
 Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/). 
 
-<iframe src="https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>  
+<iframe src="https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101" width="600" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>  
 
 ### Publication-Quality Map of Europe for Academic Journal
 In July 2025, I created a map of European cemeteries for UMass Anthropology PhD student Claire L. Gold for use in a recent submission to the American Journal of Human Biology. I was delighted to contribute by creating and refining the map using ArcGIS Pro, and I also ensured that my exported map conformed to the image standards set by the journal.
