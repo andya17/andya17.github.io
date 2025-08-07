@@ -47,7 +47,7 @@ I completed the following project with a classmate in the Middlebury College cou
 
 Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/){:target="_blank" rel="noopener"}.  
 
-Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.   
+Access my version of the report for the project below or at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.   
 
 <iframe src="https://andya17.github.io/geog323-wildlife-corridor/" width="100%" height="600px" style="border: none;"></iframe>
 
