@@ -41,8 +41,7 @@ Access the slide deck for my project presentation, which provides context for th
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
 
-### Tanzania Wildlife Corridor Reproduction Study  
-<img src="https://andya17.github.io/assets/GitHub-Picture-WildlifeCorridor-Short.png" alt="">   
+### Tanzania Wildlife Corridor Reproduction Study   
 I completed the following project with a classmate in the Middlebury College course Open GIScience during the Fall 2023 semester. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `stars`, `raster`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
 
 Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/){:target="_blank" rel="noopener"}.  
@@ -51,8 +50,7 @@ Access my version of the report for the project below or at [this link](https://
 
 <iframe src="https://andya17.github.io/geog323-wildlife-corridor/" width="100%" height="600px" style="border: none;"></iframe>
 
-### International Association for the Study of the Commons Web Map  
-<img src="https://andya17.github.io/assets/GitHub-Picture-IASC-Short.png" alt="">  
+### International Association for the Study of the Commons Web Map   
 As a project for Dr. Charles Schweik, a UMass Amherst professor, I developed a web application to help people navigate during the International Association for the Study of the Commons 20th Biennial Conference, an event held on campus in June 2025. Creating the app involved georeferencing floor plans of campus buildings at which conference presentations were held within ArcGIS Pro. Throughout the conference, which attracted hundreds of attendees from across the world, my application served as the navigational tool for newcomers to campus.
 
 Access the web application below or at [this link](https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101){:target="_blank" rel="noopener"}.
