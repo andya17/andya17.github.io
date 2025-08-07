@@ -49,6 +49,8 @@ Access the published Open Science Framework page, created by instructor Dr. Jose
 
 Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.   
 
+<iframe src="https://andya17.github.io/geog323-wildlife-corridor/" width="100%" height="100%" style="border: none;"></iframe>
+
 ### International Association for the Study of the Commons Web Map  
 <img src="https://andya17.github.io/assets/GitHub-Picture-IASC-Short.png" alt="">  
 As a project for Dr. Charles Schweik, a UMass Amherst professor, I developed a web application to help people navigate during the International Association for the Study of the Commons 20th Biennial Conference, an event held on campus in June 2025. Creating the app involved georeferencing floor plans of campus buildings at which conference presentations were held within ArcGIS Pro. Throughout the conference, which attracted hundreds of attendees from across the world, my application served as the navigational tool for newcomers to campus.
