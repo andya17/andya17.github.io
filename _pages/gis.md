@@ -49,7 +49,7 @@ Access the published Open Science Framework page, created by instructor Dr. Jose
 
 Access my version of the report for the project at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.   
 
-<iframe src="https://andya17.github.io/geog323-wildlife-corridor/" width="100%" height="100%" style="border: none;"></iframe>
+<iframe src="https://andya17.github.io/geog323-wildlife-corridor/" width="100%" height="80vh" style="border: none;"></iframe>
 
 ### International Association for the Study of the Commons Web Map  
 <img src="https://andya17.github.io/assets/GitHub-Picture-IASC-Short.png" alt="">  
