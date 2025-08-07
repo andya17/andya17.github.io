@@ -55,9 +55,11 @@ Access my version of the report for the project at [this link](https://andya17.g
 <img src="https://andya17.github.io/assets/GitHub-Picture-IASC-Short.png" alt="">  
 As a project for Dr. Charles Schweik, a UMass Amherst professor, I developed a web application to help people navigate during the International Association for the Study of the Commons 20th Biennial Conference, an event held on campus in June 2025. Creating the app involved georeferencing floor plans of campus buildings at which conference presentations were held within ArcGIS Pro. Throughout the conference, which attracted hundreds of attendees from across the world, my application served as the navigational tool for newcomers to campus.
 
-Access the web application at [this link](https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101){:target="_blank" rel="noopener"}.
+Access the web application below or at [this link](https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101){:target="_blank" rel="noopener"}.
 
 Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/). 
+
+<iframe src="https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>  
 
 ### Publication-Quality Map of Europe for Academic Journal
 In July 2025, I created a map of European cemeteries for UMass Anthropology PhD student Claire L. Gold for use in a recent submission to the American Journal of Human Biology. I was delighted to contribute by creating and refining the map using ArcGIS Pro, and I also ensured that my exported map conformed to the image standards set by the journal.
