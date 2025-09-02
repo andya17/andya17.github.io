@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /gis/
 title: "GIS Projects"
 toc: true
 toc_icon: "cog"
@@ -8,17 +8,16 @@ toc_sticky: true
 
 <script data-goatcounter="https://andy-gis-portfolio.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+ 
+### Northeast US Salt Marsh Tax Parcel Blue Carbon Viewer
+This ArcGIS Experience Builder application, which I completed for Massachusetts State Geologist Brian Yellen, presents an estimated carbon sequestration rate for over 40,000 individual tax parcels containing salt marsh from New York to Maine. To create this application, I executed spatial analysis with many raster and vector layers in ArcGIS Pro and shared the final layers to ArcGIS Online. Gathering the relevant parcel shapefiles required communicating with over twenty municipalities across the region. Alongside Dr. Yellen, I also composed public-facing documentation to communicate project details to a public audience. 
 
-Welcome to my GIS portfolio. I am eager to put my skills to work in the geospatial and/or environmental sectors.
+I originally completed a version of this project which covered just Massachusetts as a Graduate Research Assistant, and one of my tasks in my subsequent internship in Summer 2025 was to expand it to other states.
 
-## Current Projects  
-### Massachusetts Geological Survey Salt Marsh Blue Carbon Viewer
-<img src="https://andya17.github.io/assets/GitHub-Picture-BCViewer-Short.png" alt="">   
-As a Graduate Research Assistant under Massachusetts State Geologist Brian Yellen in early 2025, I developed a web application on ArcGIS Online which shows a calculated estimate for carbon sequestration in each Massachusetts tax parcel containing salt marsh. Calculations for carbon sequestration are based on spatial analysis I executed in ArcGIS Pro. The draft app underwent review by state personnel, and now, as an intern with the Massachusetts Geological Survey, I am tasked with expanding the app to cover the states of Maine, New Hampshire, Rhode Island, Connecticut, New York, and New Jersey. The app is intended to be public-facing once this update is complete.
+Access the ArcGIS Experience below or at [this link](https://experience.arcgis.com/experience/b43821c3f63d4cbf9ad7e0ce54650490).
 
-I will share a link to the application once it has been finished.
+<iframe src="https://experience.arcgis.com/experience/b43821c3f63d4cbf9ad7e0ce54650490" width="600" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>  
 
-## Completed Projects
 ### Python Script to Download MassGIS DEM Tiles
 As the Geospatial Intern at the Massachusetts Geological Survey, I am tasked with obtaining, analyzing, and presenting environmental information for thousands of long-term ecological research plots located in forests across the state. One task which I have completed as part of this process is downloading and managing approximately 1500 digital elevation model (DEM) tiles using a script in a Python Notebook. This script eliminated the need for manual downloading, which would be infeasible given the number of tiles needed, and enabled me to analyze the slope, aspect, and curvature of each 1/5 acre plot.
 
@@ -41,15 +40,6 @@ Access the slide deck for my project presentation, which provides context for th
 
 Access the ArcGIS Dashboard at [this link](https://www.arcgis.com/apps/dashboards/cc6840291af544c48a949ef95d18e95a){:target="_blank" rel="noopener"}.  
 
-### Tanzania Wildlife Corridor Reproduction Study   
-I completed the following project with a classmate in the Middlebury College course Open GIScience during the Fall 2023 semester. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `stars`, `raster`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
-
-Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/){:target="_blank" rel="noopener"}.  
-
-Access my version of the report for the project below or at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.   
-
-<iframe src="https://andya17.github.io/geog323-wildlife-corridor/" width="100%" height="600px" style="border: none;"></iframe>
-
 ### International Association for the Study of the Commons Web Map   
 As a project for Dr. Charles Schweik, a UMass Amherst professor, I developed a web application to help people navigate during the International Association for the Study of the Commons 20th Biennial Conference, an event held on campus in June 2025. Creating the app involved georeferencing floor plans of campus buildings at which conference presentations were held within ArcGIS Pro. Throughout the conference, which attracted hundreds of attendees from across the world, my application served as the navigational tool for newcomers to campus.
 
@@ -58,6 +48,15 @@ Access the web application below or at [this link](https://umass-amherst.maps.ar
 Access the conference's "Information for In-Person Participants" page, which advertises my application, at [this link](https://2025.iasc-commons.org/information-for-participants/). 
 
 <iframe src="https://umass-amherst.maps.arcgis.com/apps/instant/basic/index.html?appid=e2b2dc8999784c77b089e4c659c81101" width="600" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>  
+
+### Tanzania Wildlife Corridor Reproduction Study   
+I completed the following project with a classmate in the Middlebury College course Open GIScience during the Fall 2023 semester. Using the software R, we attempted to reproduce the steps of a QGIS model which produced a least cost surface for an area in Tanzania. We used packages such as `stars`, `raster`, and `tmap` to create an analogous workflow to that of the QGIS model. I provided CRediT roles to reflect the balance of work between the two contributors at the conclusion of the report linked below.  
+
+Access the published Open Science Framework page, created by instructor Dr. Joseph Holler to detail the project, at [this link](https://osf.io/djp97/){:target="_blank" rel="noopener"}.  
+
+Access my version of the report for the project below or at [this link](https://andya17.github.io/geog323-wildlife-corridor/){:target="_blank" rel="noopener"}.   
+
+<iframe src="https://andya17.github.io/geog323-wildlife-corridor/" width="100%" height="600px" style="border: none;"></iframe>
 
 ### Publication-Quality Map of Europe for Academic Journal
 In July 2025, I created a map of European cemeteries for UMass Anthropology PhD student Claire L. Gold for use in a recent submission to the American Journal of Human Biology. I was delighted to contribute by creating and refining the map using ArcGIS Pro, and I also ensured that my exported map conformed to the image standards set by the journal.
