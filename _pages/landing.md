@@ -4,7 +4,7 @@ permalink: /
 
 My name is Andy Atallah, and I recently earned a Master of Science in Geographic Information Science and Technology from the University of Massachusetts Amherst. I have experience with GIS from both this program and from my time at Middlebury College, where I enrolled in many Geography courses while completing my Bachelor of Arts in Environmental Studies and Biology.
 
-Here, on my portfolio website, you can find samples of [GIS projects](https://andya17.github.io/gis/) I have completed for supervisors, professors, and clients. You can also view the most recent version of my resume.
+Here, on my portfolio website, you can find samples of [GIS projects](https://andya17.github.io/gis/) I have completed for supervisors, professors, and clients. You can also view the most recent version of my [resume](https://andya17.github.io/resume/).
 
 Some recent projects I have worked on include the following: 
 - A public-facing ArcGIS Experience Builder [application](https://andya17.github.io/gis/#northeast-us-salt-marsh-tax-parcel-blue-carbon-viewer){:target="_blank" rel="noopener"} showing an estimated carbon sequestration rate in 40,000 tax parcels containing salt marsh from New York to Maine;
