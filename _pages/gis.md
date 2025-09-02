@@ -11,7 +11,7 @@ toc_sticky: true
  
 ### Northeast US Salt Marsh Tax Parcel Blue Carbon Viewer
 <img src="https://andya17.github.io/assets/GitHub-Picture-BC2-Short.png" alt="">  
-This ArcGIS Experience Builder application, which I completed for Massachusetts State Geologist Brian Yellen, presents an estimated carbon sequestration rate for over 40,000 individual tax parcels containing salt marsh from New York to Maine. To create this application, I executed spatial analysis with many raster and vector layers in ArcGIS Pro and shared the final layers to ArcGIS Online. Gathering the relevant parcel shapefiles required communicating with over twenty municipalities across the region. Alongside Dr. Yellen, I also composed public-facing documentation to communicate project details to a public audience. 
+This ArcGIS Experience Builder application, which I completed for Massachusetts State Geologist Brian Yellen, presents an estimated carbon sequestration rate for over 40,000 individual tax parcels containing salt marsh from New York to Maine. To create this application, I executed spatial analysis with many raster and vector layers in ArcGIS Pro and shared the final layers to ArcGIS Online. Gathering the relevant parcel shapefiles required communicating with over twenty municipalities across the region. Alongside Dr. Yellen, I also composed documentation to communicate project details to a public audience. 
 
 I originally completed a version of this project which covered just Massachusetts as a Graduate Research Assistant, and one of my tasks in my subsequent internship in Summer 2025 was to expand it to other states.
 
@@ -19,7 +19,7 @@ Access the ArcGIS Experience at [this link](https://experience.arcgis.com/experi
 
 
 ### Python Script to Download MassGIS DEM Tiles
-As the Geospatial Intern at the Massachusetts Geological Survey, I am tasked with obtaining, analyzing, and presenting environmental information for thousands of long-term ecological research plots located in forests across the state. One task which I have completed as part of this process is downloading and managing approximately 1500 digital elevation model (DEM) tiles using a script in a Python Notebook. This script eliminated the need for manual downloading, which would be infeasible given the number of tiles needed, and enabled me to analyze the slope, aspect, and curvature of each 1/5 acre plot.
+As the Geospatial Intern at the Massachusetts Geological Survey in Summer 2025, I was tasked with obtaining, analyzing, and presenting environmental information for thousands of long-term ecological research plots located in forests across the state. One task which I completed as part of this process is downloading and managing approximately 1500 digital elevation model (DEM) tiles using a script in a Python Notebook. This script eliminated the need for manual downloading, which would be infeasible given the number of tiles needed, and enabled me to analyze the slope, aspect, and curvature of each 1/5 acre plot.
 
 Read below or [view in a separate tab](https://colab.research.google.com/drive/1QqpY6Auxgmu5l_vxDMRMq2B6C2lv8Q35){:target="_blank" rel="noopener"}.  
 
