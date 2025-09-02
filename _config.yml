@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "Andy Atallah"
-  avatar : "/assets/MGS-Bio-2.png"
-  bio    : "Geospatial Summer Intern at Massachusetts Geological Survey • MS in GIS Technology, UMass Amherst • BA in Environmental Studies, Middlebury College"
+  avatar : "/assets/Bio-2025-2.png"
+  bio    : "MS in GIS Technology, UMass Amherst • BA in Environmental Studies, Middlebury College"
   links:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"

@@ -77,7 +77,7 @@ Read below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/GEO
 <object data="https://andya17.github.io/_pages/pdfs/GEOG310-Report-3.pdf#zoom=54&navpanes=0" type="application/pdf" width="100%" height="100%"></object> 
 
 ### UMass Campus Topographic Map Replication
-In February 2025, I took on a project to update a topographic map of the UMass Amherst campus for use in the class materials of an introductory Geology course. The professor provided me with a map printed on physical media with no online sources. I used LiDAR, road, and building data within ArcGIS Pro to replicate the extent and style of the reference map while ensuring that contour line features reflected more current topography. The professor, Dr. William Clement, plans to use the new map in his course during the Spring 2025 semester.
+In February 2025, I took on a project to update a topographic map of the UMass Amherst campus for use in the class materials of an introductory Geology course. The professor provided me with a map printed on physical media with no online sources. I used LiDAR, road, and building data within ArcGIS Pro to replicate the extent and style of the reference map while ensuring that contour line features reflected more current topography. The professor, Dr. William Clement, has added the map to his class materials for the Fall 2025 semester.
 
 View the updated map (first page) and the reference map (second page) below or [view in a separate tab](https://andya17.github.io/_pages/pdfs/Topographic-Map-UMass-Comparison.pdf){:target="_blank" rel="noopener"}.
 
