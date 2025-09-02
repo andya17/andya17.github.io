@@ -14,9 +14,8 @@ This ArcGIS Experience Builder application, which I completed for Massachusetts 
 
 I originally completed a version of this project which covered just Massachusetts as a Graduate Research Assistant, and one of my tasks in my subsequent internship in Summer 2025 was to expand it to other states.
 
-Access the ArcGIS Experience below or at [this link](https://experience.arcgis.com/experience/b43821c3f63d4cbf9ad7e0ce54650490).
+Access the ArcGIS Experience at [this link](https://experience.arcgis.com/experience/b43821c3f63d4cbf9ad7e0ce54650490){:target="_blank" rel="noopener"}.
 
-<iframe src="https://experience.arcgis.com/experience/b43821c3f63d4cbf9ad7e0ce54650490" width="600" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>  
 
 ### Python Script to Download MassGIS DEM Tiles
 As the Geospatial Intern at the Massachusetts Geological Survey, I am tasked with obtaining, analyzing, and presenting environmental information for thousands of long-term ecological research plots located in forests across the state. One task which I have completed as part of this process is downloading and managing approximately 1500 digital elevation model (DEM) tiles using a script in a Python Notebook. This script eliminated the need for manual downloading, which would be infeasible given the number of tiles needed, and enabled me to analyze the slope, aspect, and curvature of each 1/5 acre plot.
